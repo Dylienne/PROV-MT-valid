@@ -1,0 +1,2749 @@
+{
+  "prefix": {
+    "result": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2FHeydon%2Ffukol-grids.git&serialization=PROV-JSON#",
+    "fullResult": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2FHeydon%2Ffukol-grids.git&serialization=PROV-JSON#"
+  },
+  "bundle": {
+    "result:provenance": {
+      "entity": {
+        "result:file-bower-json": {
+          "prov:label": "bower.json"
+        },
+        "result:file-fukol-css": {
+          "prov:label": "fukol.css"
+        },
+        "result:file-LICENSE-txt": {
+          "prov:label": "LICENSE.txt"
+        },
+        "result:file-tweet-png": {
+          "prov:label": "tweet.png"
+        },
+        "result:file-fukol-demo-gif": {
+          "prov:label": "fukol-demo.gif"
+        },
+        "result:file-logo-png": {
+          "prov:label": "logo.png"
+        },
+        "result:file-README-md": {
+          "prov:label": "README.md"
+        },
+        "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7": {},
+        "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343": {},
+        "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1": {},
+        "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242": {},
+        "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2": {},
+        "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea": {},
+        "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0": {},
+        "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df": {},
+        "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b": {},
+        "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6": {},
+        "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5": {},
+        "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea": {},
+        "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff": {},
+        "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b": {},
+        "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67": {},
+        "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca": {},
+        "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959": {},
+        "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc": {},
+        "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71": {},
+        "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb": {},
+        "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb": {},
+        "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9": {},
+        "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc": {},
+        "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b": {},
+        "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4": {},
+        "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720": {},
+        "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543": {},
+        "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813": {},
+        "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba": {},
+        "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8": {},
+        "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa": {},
+        "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987": {},
+        "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab": {},
+        "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c": {},
+        "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52": {},
+        "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1": {},
+        "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834": {},
+        "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f": {},
+        "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d": {},
+        "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13": {},
+        "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618": {},
+        "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835": {},
+        "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64": {},
+        "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba": {},
+        "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0": {},
+        "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0": {},
+        "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf": {},
+        "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3": {},
+        "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62": {},
+        "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff": {},
+        "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a": {},
+        "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6": {},
+        "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7": {},
+        "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279": {}
+      },
+      "agent": {
+        "result:user-Heydon-Pickering": {
+          "prov:label": "Heydon Pickering"
+        },
+        "result:user-GitHub": {
+          "prov:label": "GitHub"
+        },
+        "result:user-Westley-Knight": {
+          "prov:label": "Westley Knight"
+        },
+        "result:user-Steve-Anderson": {
+          "prov:label": "Steve Anderson"
+        }
+      },
+      "activity": {
+        "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343": {
+          "prov:label": "Note on IE"
+        },
+        "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-a91b625e470de444318880a3b8090cd5d56e9242": {
+          "prov:label": "Restructure"
+        },
+        "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2": {
+          "prov:label": "Update to README.md. Fixes #13"
+        },
+        "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea": {
+          "prov:label": "Change of percentage example"
+        },
+        "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0": {
+          "prov:label": "Reverted min-width bc Safari :("
+        },
+        "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df": {
+          "prov:label": "Switch to min-width for percentages."
+        },
+        "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b": {
+          "prov:label": "calc for correct percentage widths"
+        },
+        "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6": {
+          "prov:label": "Updated em values"
+        },
+        "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5": {
+          "prov:label": "Note on leaving shrink and grow be"
+        },
+        "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea": {
+          "prov:label": "Number cock up"
+        },
+        "result:commit-397b11ac21360cc39cd12c423713441e257164ff": {
+          "prov:label": "New size after most recent refactor"
+        },
+        "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b": {
+          "prov:label": "Further refactor using shorthands"
+        },
+        "result:commit-a38069d60981d59408214b391b10a0a346b4fe67": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959": {
+          "prov:label": "CodePen Demo"
+        },
+        "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71": {
+          "prov:label": "Typo fix"
+        },
+        "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb": {
+          "prov:label": "Image dimensions"
+        },
+        "result:commit-091945243531ad440c5014547a9c19df5bc61fb9": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc": {
+          "prov:label": "Demo gif"
+        },
+        "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b": {
+          "prov:label": "single quotes"
+        },
+        "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543": {
+          "prov:label": "cap"
+        },
+        "result:commit-39916bddff987d14608d1e0606135bc060f48813": {
+          "prov:label": "negayive typo"
+        },
+        "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987": {
+          "prov:label": "FAQs"
+        },
+        "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52": {
+          "prov:label": "Logo"
+        },
+        "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834": {
+          "prov:label": "Name change"
+        },
+        "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f": {
+          "prov:label": "Picking out individual items"
+        },
+        "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d": {
+          "prov:label": "Name change"
+        },
+        "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13": {
+          "prov:label": "RTL"
+        },
+        "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618": {
+          "prov:label": "Container element"
+        },
+        "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835": {
+          "prov:label": "Instructions"
+        },
+        "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64": {
+          "prov:label": "Initial commit"
+        },
+        "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba": {
+          "prov:label": "Add files via upload"
+        },
+        "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0": {
+          "prov:label": "Demo image"
+        },
+        "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0": {
+          "prov:label": "New tweet image"
+        },
+        "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf": {
+          "prov:label": "New tweet image to reflect further refactor"
+        },
+        "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3": {
+          "prov:label": "New tweet image after code refactor"
+        },
+        "result:commit-402f8542aaef21a00891f74c254edcc3df473a62": {
+          "prov:label": "Tweet image tweaked"
+        },
+        "result:commit-6d23ace7312c040218b793105253044f540568ff": {
+          "prov:label": "Smaller tweet image"
+        },
+        "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a": {
+          "prov:label": "Add files via upload"
+        },
+        "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6": {
+          "prov:label": "Create LICENSE.txt"
+        },
+        "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7": {
+          "prov:label": "separate CSS file"
+        },
+        "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279": {
+          "prov:label": "bower FFS"
+        }
+      },
+      "wasStartedBy": {
+        "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_start": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:time": "2017-02-24T10:40:24.000Z"
+        },
+        "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343_start": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:time": "2016-10-14T07:47:35.000Z"
+        },
+        "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1_start": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:time": "2016-10-11T14:21:17.000Z"
+        },
+        "result:commit-a91b625e470de444318880a3b8090cd5d56e9242_start": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:time": "2016-10-11T13:15:59.000Z"
+        },
+        "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_start": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:time": "2016-10-07T16:15:56.000Z"
+        },
+        "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_start": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:time": "2016-10-05T10:14:19.000Z"
+        },
+        "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_start": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:time": "2016-10-05T09:58:58.000Z"
+        },
+        "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df_start": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:time": "2016-10-05T09:56:45.000Z"
+        },
+        "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_start": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:time": "2016-10-05T09:44:37.000Z"
+        },
+        "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_start": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:time": "2016-10-04T15:15:48.000Z"
+        },
+        "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_start": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:time": "2016-10-04T15:13:20.000Z"
+        },
+        "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_start": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:time": "2016-10-04T13:56:28.000Z"
+        },
+        "result:commit-397b11ac21360cc39cd12c423713441e257164ff_start": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:time": "2016-10-04T13:55:49.000Z"
+        },
+        "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_start": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:time": "2016-10-04T13:41:49.000Z"
+        },
+        "result:commit-a38069d60981d59408214b391b10a0a346b4fe67_start": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:time": "2016-10-04T13:18:22.000Z"
+        },
+        "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_start": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:time": "2016-10-04T12:27:21.000Z"
+        },
+        "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_start": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:time": "2016-10-04T11:03:37.000Z"
+        },
+        "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_start": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:time": "2016-10-04T10:45:45.000Z"
+        },
+        "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_start": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:time": "2016-10-03T10:03:18.000Z"
+        },
+        "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_start": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:time": "2016-10-03T10:02:22.000Z"
+        },
+        "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_start": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:time": "2016-10-03T10:02:04.000Z"
+        },
+        "result:commit-091945243531ad440c5014547a9c19df5bc61fb9_start": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:time": "2016-10-03T09:57:51.000Z"
+        },
+        "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_start": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:time": "2016-10-03T09:14:59.000Z"
+        },
+        "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_start": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:time": "2016-10-02T14:39:37.000Z"
+        },
+        "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4_start": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:time": "2016-10-02T14:35:21.000Z"
+        },
+        "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720_start": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:time": "2016-10-02T14:07:48.000Z"
+        },
+        "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543_start": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:time": "2016-10-02T14:03:26.000Z"
+        },
+        "result:commit-39916bddff987d14608d1e0606135bc060f48813_start": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:time": "2016-10-02T14:00:45.000Z"
+        },
+        "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_start": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:time": "2016-10-02T13:53:43.000Z"
+        },
+        "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_start": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:time": "2016-10-02T13:49:31.000Z"
+        },
+        "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_start": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:time": "2016-10-02T13:48:04.000Z"
+        },
+        "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_start": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:time": "2016-10-02T13:46:43.000Z"
+        },
+        "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_start": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:time": "2016-10-02T13:31:42.000Z"
+        },
+        "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_start": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:time": "2016-10-02T13:29:45.000Z"
+        },
+        "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_start": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:time": "2016-10-02T13:29:03.000Z"
+        },
+        "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1_start": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:time": "2016-10-02T12:57:54.000Z"
+        },
+        "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_start": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:time": "2016-10-02T12:57:39.000Z"
+        },
+        "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_start": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:time": "2016-10-02T12:54:23.000Z"
+        },
+        "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_start": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:time": "2016-10-02T12:44:34.000Z"
+        },
+        "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_start": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:time": "2016-10-02T12:41:06.000Z"
+        },
+        "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618_start": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:time": "2016-10-02T12:17:02.000Z"
+        },
+        "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835_start": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:time": "2016-10-02T09:14:58.000Z"
+        },
+        "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_start": {
+          "prov:activity": "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:time": "2016-10-02T08:45:46.000Z"
+        },
+        "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_start": {
+          "prov:activity": "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:time": "2016-10-02T13:28:30.000Z"
+        },
+        "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_start": {
+          "prov:activity": "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:time": "2016-10-03T09:12:48.000Z"
+        },
+        "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_start": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:time": "2016-10-04T13:54:27.000Z"
+        },
+        "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf_start": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:time": "2016-10-04T13:52:27.000Z"
+        },
+        "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3_start": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:time": "2016-10-04T13:26:47.000Z"
+        },
+        "result:commit-402f8542aaef21a00891f74c254edcc3df473a62_start": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:time": "2016-10-03T10:00:50.000Z"
+        },
+        "result:commit-6d23ace7312c040218b793105253044f540568ff_start": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:time": "2016-10-03T09:59:24.000Z"
+        },
+        "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_start": {
+          "prov:activity": "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:time": "2016-10-03T09:56:32.000Z"
+        },
+        "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_start": {
+          "prov:activity": "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:time": "2016-10-04T15:23:30.000Z"
+        },
+        "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7_start": {
+          "prov:activity": "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7",
+          "prov:time": "2016-10-25T08:39:48.000Z"
+        },
+        "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279_start": {
+          "prov:activity": "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:time": "2016-10-25T09:40:32.000Z"
+        }
+      },
+      "wasEndedBy": {
+        "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_end": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:time": "2017-02-24T10:40:24.000Z"
+        },
+        "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343_end": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:time": "2016-10-14T07:47:35.000Z"
+        },
+        "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1_end": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:time": "2016-10-11T14:21:17.000Z"
+        },
+        "result:commit-a91b625e470de444318880a3b8090cd5d56e9242_end": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:time": "2016-10-11T13:15:59.000Z"
+        },
+        "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_end": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:time": "2016-10-07T16:15:56.000Z"
+        },
+        "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_end": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:time": "2016-10-05T10:14:19.000Z"
+        },
+        "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_end": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:time": "2016-10-05T09:58:58.000Z"
+        },
+        "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df_end": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:time": "2016-10-05T09:56:45.000Z"
+        },
+        "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_end": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:time": "2016-10-05T09:44:37.000Z"
+        },
+        "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_end": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:time": "2016-10-04T15:15:48.000Z"
+        },
+        "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_end": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:time": "2016-10-04T15:13:20.000Z"
+        },
+        "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_end": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:time": "2016-10-04T13:56:28.000Z"
+        },
+        "result:commit-397b11ac21360cc39cd12c423713441e257164ff_end": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:time": "2016-10-04T13:55:49.000Z"
+        },
+        "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_end": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:time": "2016-10-04T13:41:49.000Z"
+        },
+        "result:commit-a38069d60981d59408214b391b10a0a346b4fe67_end": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:time": "2016-10-04T13:18:22.000Z"
+        },
+        "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_end": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:time": "2016-10-04T12:27:21.000Z"
+        },
+        "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_end": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:time": "2016-10-04T11:03:37.000Z"
+        },
+        "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_end": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:time": "2016-10-04T10:45:45.000Z"
+        },
+        "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_end": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:time": "2016-10-03T10:03:18.000Z"
+        },
+        "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_end": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:time": "2016-10-03T10:02:22.000Z"
+        },
+        "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_end": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:time": "2016-10-03T10:02:04.000Z"
+        },
+        "result:commit-091945243531ad440c5014547a9c19df5bc61fb9_end": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:time": "2016-10-03T09:57:51.000Z"
+        },
+        "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_end": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:time": "2016-10-03T09:14:59.000Z"
+        },
+        "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_end": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:time": "2016-10-02T14:39:37.000Z"
+        },
+        "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4_end": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:time": "2016-10-02T14:35:21.000Z"
+        },
+        "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720_end": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:time": "2016-10-02T14:07:48.000Z"
+        },
+        "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543_end": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:time": "2016-10-02T14:03:26.000Z"
+        },
+        "result:commit-39916bddff987d14608d1e0606135bc060f48813_end": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:time": "2016-10-02T14:00:45.000Z"
+        },
+        "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_end": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:time": "2016-10-02T13:53:43.000Z"
+        },
+        "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_end": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:time": "2016-10-02T13:49:31.000Z"
+        },
+        "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_end": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:time": "2016-10-02T13:48:04.000Z"
+        },
+        "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_end": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:time": "2016-10-02T13:46:43.000Z"
+        },
+        "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_end": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:time": "2016-10-02T13:31:42.000Z"
+        },
+        "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_end": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:time": "2016-10-02T13:29:45.000Z"
+        },
+        "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_end": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:time": "2016-10-02T13:29:03.000Z"
+        },
+        "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1_end": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:time": "2016-10-02T12:57:54.000Z"
+        },
+        "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_end": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:time": "2016-10-02T12:57:39.000Z"
+        },
+        "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_end": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:time": "2016-10-02T12:54:23.000Z"
+        },
+        "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_end": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:time": "2016-10-02T12:44:34.000Z"
+        },
+        "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_end": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:time": "2016-10-02T12:41:06.000Z"
+        },
+        "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618_end": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:time": "2016-10-02T12:17:02.000Z"
+        },
+        "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835_end": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:time": "2016-10-02T09:14:58.000Z"
+        },
+        "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_end": {
+          "prov:activity": "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:time": "2016-10-02T08:45:46.000Z"
+        },
+        "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_end": {
+          "prov:activity": "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:time": "2016-10-02T13:28:30.000Z"
+        },
+        "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_end": {
+          "prov:activity": "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:time": "2016-10-03T09:12:48.000Z"
+        },
+        "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_end": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:time": "2016-10-04T13:54:27.000Z"
+        },
+        "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf_end": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:time": "2016-10-04T13:52:27.000Z"
+        },
+        "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3_end": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:time": "2016-10-04T13:26:47.000Z"
+        },
+        "result:commit-402f8542aaef21a00891f74c254edcc3df473a62_end": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:time": "2016-10-03T10:00:50.000Z"
+        },
+        "result:commit-6d23ace7312c040218b793105253044f540568ff_end": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:time": "2016-10-03T09:59:24.000Z"
+        },
+        "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_end": {
+          "prov:activity": "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:time": "2016-10-03T09:56:32.000Z"
+        },
+        "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_end": {
+          "prov:activity": "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:time": "2016-10-04T15:23:30.000Z"
+        },
+        "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7_end": {
+          "prov:activity": "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7",
+          "prov:time": "2016-10-25T08:39:48.000Z"
+        },
+        "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279_end": {
+          "prov:activity": "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:time": "2016-10-25T09:40:32.000Z"
+        }
+      },
+      "wasAttributedTo": {
+        "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_user-Westley-Knight_attr": {
+          "prov:entity": "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:agent": "result:user-Westley-Knight",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_user-Steve-Anderson_attr": {
+          "prov:entity": "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:agent": "result:user-Steve-Anderson",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        },
+        "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279_user-Heydon-Pickering_attr": {
+          "prov:entity": "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:type": "authorship"
+        }
+      },
+      "wasAssociatedWith": {
+        "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_user-GitHub_assoc": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343_user-GitHub_assoc": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1_user-GitHub_assoc": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-a91b625e470de444318880a3b8090cd5d56e9242_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-a91b625e470de444318880a3b8090cd5d56e9242_user-GitHub_assoc": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_user-Westley-Knight_assoc": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:agent": "result:user-Westley-Knight",
+          "prov:role": "author"
+        },
+        "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_user-GitHub_assoc": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_user-GitHub_assoc": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_user-GitHub_assoc": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df_user-GitHub_assoc": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_user-GitHub_assoc": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_user-GitHub_assoc": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_user-GitHub_assoc": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_user-GitHub_assoc": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-397b11ac21360cc39cd12c423713441e257164ff_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-397b11ac21360cc39cd12c423713441e257164ff_user-GitHub_assoc": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_user-GitHub_assoc": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-a38069d60981d59408214b391b10a0a346b4fe67_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-a38069d60981d59408214b391b10a0a346b4fe67_user-GitHub_assoc": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_user-GitHub_assoc": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_user-GitHub_assoc": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_user-GitHub_assoc": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_user-Steve-Anderson_assoc": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:agent": "result:user-Steve-Anderson",
+          "prov:role": "author"
+        },
+        "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_user-GitHub_assoc": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_user-GitHub_assoc": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_user-GitHub_assoc": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-091945243531ad440c5014547a9c19df5bc61fb9_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-091945243531ad440c5014547a9c19df5bc61fb9_user-GitHub_assoc": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_user-GitHub_assoc": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_user-GitHub_assoc": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4_user-GitHub_assoc": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720_user-GitHub_assoc": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543_user-GitHub_assoc": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-39916bddff987d14608d1e0606135bc060f48813_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-39916bddff987d14608d1e0606135bc060f48813_user-GitHub_assoc": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_user-GitHub_assoc": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_user-GitHub_assoc": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_user-GitHub_assoc": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_user-GitHub_assoc": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_user-GitHub_assoc": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_user-GitHub_assoc": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_user-GitHub_assoc": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1_user-GitHub_assoc": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_user-GitHub_assoc": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_user-GitHub_assoc": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_user-GitHub_assoc": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_user-GitHub_assoc": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618_user-GitHub_assoc": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835_user-GitHub_assoc": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author, committer"
+        },
+        "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_user-GitHub_assoc": {
+          "prov:activity": "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_user-GitHub_assoc": {
+          "prov:activity": "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_user-GitHub_assoc": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf_user-GitHub_assoc": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3_user-GitHub_assoc": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-402f8542aaef21a00891f74c254edcc3df473a62_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-402f8542aaef21a00891f74c254edcc3df473a62_user-GitHub_assoc": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-6d23ace7312c040218b793105253044f540568ff_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-6d23ace7312c040218b793105253044f540568ff_user-GitHub_assoc": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_user-GitHub_assoc": {
+          "prov:activity": "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author"
+        },
+        "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_user-GitHub_assoc": {
+          "prov:activity": "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:agent": "result:user-GitHub",
+          "prov:role": "committer"
+        },
+        "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author, committer"
+        },
+        "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279_user-Heydon-Pickering_assoc": {
+          "prov:activity": "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:agent": "result:user-Heydon-Pickering",
+          "prov:role": "author, committer"
+        }
+      },
+      "wasInformedBy": {
+        "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_fa118e1a05accb660ae1eaa0a7893b0361555279_comm": {
+          "prov:informant": "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:informed": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7"
+        },
+        "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343_990339df95e55f3f63d8cd612b3b365b197b54a1_comm": {
+          "prov:informant": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:informed": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343"
+        },
+        "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1_a91b625e470de444318880a3b8090cd5d56e9242_comm": {
+          "prov:informant": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:informed": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1"
+        },
+        "result:commit-a91b625e470de444318880a3b8090cd5d56e9242_372b665497ce6603a1cb9ce7c11e47f7d63b34b9_comm": {
+          "prov:informant": "result:commit-372b665497ce6603a1cb9ce7c11e47f7d63b34b9",
+          "prov:informed": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242"
+        },
+        "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_5b4af6b73b04da579e7d19ad410ed104f29d93ea_comm": {
+          "prov:informant": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:informed": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2"
+        },
+        "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_comm": {
+          "prov:informant": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:informed": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea"
+        },
+        "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_ae3d888422723c62f678e117d5ecc44d95c843df_comm": {
+          "prov:informant": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:informed": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0"
+        },
+        "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df_9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_comm": {
+          "prov:informant": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:informed": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df"
+        },
+        "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_9527da6f462fcd9f6960b7e76c3ead2d128190a6_comm": {
+          "prov:informant": "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:informed": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b"
+        },
+        "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_51583f9087ae0b86d5b15dca3c60c56a312057f5_comm": {
+          "prov:informant": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:informed": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6"
+        },
+        "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_b1d61ba36e364a1e41ce20fd795b2c783060bbea_comm": {
+          "prov:informant": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:informed": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5"
+        },
+        "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_397b11ac21360cc39cd12c423713441e257164ff_comm": {
+          "prov:informant": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:informed": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea"
+        },
+        "result:commit-397b11ac21360cc39cd12c423713441e257164ff_ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_comm": {
+          "prov:informant": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:informed": "result:commit-397b11ac21360cc39cd12c423713441e257164ff"
+        },
+        "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_c7eed1e0e87299c658cd4755668dccf9354879b3_comm": {
+          "prov:informant": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:informed": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b"
+        },
+        "result:commit-a38069d60981d59408214b391b10a0a346b4fe67_7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_comm": {
+          "prov:informant": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:informed": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67"
+        },
+        "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_9709eccd94fdd9229b2a1835025e75fa4f0a8959_comm": {
+          "prov:informant": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:informed": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca"
+        },
+        "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_comm": {
+          "prov:informant": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:informed": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959"
+        },
+        "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_98265dc5ddc70f914641ff213d56fccde7189459_comm": {
+          "prov:informant": "result:commit-98265dc5ddc70f914641ff213d56fccde7189459",
+          "prov:informed": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc"
+        },
+        "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_8095a65c0891fad8c7e7f3a26269e3aa5a241abb_comm": {
+          "prov:informant": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:informed": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71"
+        },
+        "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_fdbfd71215fd1a23d630b78421546c08d7e447eb_comm": {
+          "prov:informant": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:informed": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb"
+        },
+        "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_402f8542aaef21a00891f74c254edcc3df473a62_comm": {
+          "prov:informant": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:informed": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb"
+        },
+        "result:commit-091945243531ad440c5014547a9c19df5bc61fb9_15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_comm": {
+          "prov:informant": "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:informed": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9"
+        },
+        "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_af374de7368a566b9035a74cf3d7b042f6ef84e0_comm": {
+          "prov:informant": "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:informed": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc"
+        },
+        "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_191b5bad66619edafcbdf6b2a232d522d79897f4_comm": {
+          "prov:informant": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:informed": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b"
+        },
+        "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4_2261775cd60200ddf7cce4456007ee1ea9b11720_comm": {
+          "prov:informant": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:informed": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4"
+        },
+        "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720_c86019cd5bbc7f0ca69e40716286feae12412543_comm": {
+          "prov:informant": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:informed": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720"
+        },
+        "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543_39916bddff987d14608d1e0606135bc060f48813_comm": {
+          "prov:informant": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:informed": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543"
+        },
+        "result:commit-39916bddff987d14608d1e0606135bc060f48813_1baf8675d1a6e2f0770267b338c361f139f9f9ba_comm": {
+          "prov:informant": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:informed": "result:commit-39916bddff987d14608d1e0606135bc060f48813"
+        },
+        "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_ff7f69000cbaf2779f0a221e9b65ac5f681658b8_comm": {
+          "prov:informant": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:informed": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba"
+        },
+        "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_2c7a9a392345cc3add0dd7478379be35e1bfc7fa_comm": {
+          "prov:informant": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:informed": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8"
+        },
+        "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_9711353d50cfeb6fa511e305b26d4f36d1e26987_comm": {
+          "prov:informant": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:informed": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa"
+        },
+        "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_6f6ef81a33fb421808b30a2a1b475fbec91872ab_comm": {
+          "prov:informant": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:informed": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987"
+        },
+        "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_comm": {
+          "prov:informant": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:informed": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab"
+        },
+        "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_b34a1e34ab2f35b66d11ec7561b9569271035d52_comm": {
+          "prov:informant": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:informed": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c"
+        },
+        "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_6a466cd5064ddc35ae3e185d25bf291cfc5aedba_comm": {
+          "prov:informant": "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:informed": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52"
+        },
+        "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1_56c7c4bd94eb997d3053955f32fc487d2c6aa834_comm": {
+          "prov:informant": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:informed": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1"
+        },
+        "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_7de392e1bc5d51c50b078c729e3be4f0c72bd13f_comm": {
+          "prov:informant": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:informed": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834"
+        },
+        "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_comm": {
+          "prov:informant": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:informed": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f"
+        },
+        "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_51137bc0765e858f3e5ccf6daaaf193d6107df13_comm": {
+          "prov:informant": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:informed": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d"
+        },
+        "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_08a4047430cd9f190163f7915f7391b1ea8ac618_comm": {
+          "prov:informant": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:informed": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13"
+        },
+        "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618_4f733d6a6e0551daccad1ecc80b8782d07771835_comm": {
+          "prov:informant": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:informed": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618"
+        },
+        "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835_d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_comm": {
+          "prov:informant": "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:informed": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835"
+        },
+        "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_fc85b56d1b93efc0818427d46727acfaf44528bf_comm": {
+          "prov:informant": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:informed": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0"
+        },
+        "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf_5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_comm": {
+          "prov:informant": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:informed": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf"
+        },
+        "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3_a38069d60981d59408214b391b10a0a346b4fe67_comm": {
+          "prov:informant": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:informed": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3"
+        },
+        "result:commit-402f8542aaef21a00891f74c254edcc3df473a62_6d23ace7312c040218b793105253044f540568ff_comm": {
+          "prov:informant": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:informed": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62"
+        },
+        "result:commit-6d23ace7312c040218b793105253044f540568ff_091945243531ad440c5014547a9c19df5bc61fb9_comm": {
+          "prov:informant": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:informed": "result:commit-6d23ace7312c040218b793105253044f540568ff"
+        }
+      },
+      "specializationOf": {
+        "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7"
+        },
+        "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343"
+        },
+        "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1"
+        },
+        "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242"
+        },
+        "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2"
+        },
+        "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea"
+        },
+        "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0"
+        },
+        "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df"
+        },
+        "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b"
+        },
+        "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6"
+        },
+        "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5"
+        },
+        "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea"
+        },
+        "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff"
+        },
+        "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b"
+        },
+        "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67"
+        },
+        "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca"
+        },
+        "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959"
+        },
+        "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc"
+        },
+        "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71"
+        },
+        "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb"
+        },
+        "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb"
+        },
+        "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9"
+        },
+        "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc"
+        },
+        "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b"
+        },
+        "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4"
+        },
+        "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720"
+        },
+        "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543"
+        },
+        "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813"
+        },
+        "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba"
+        },
+        "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8"
+        },
+        "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa"
+        },
+        "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987"
+        },
+        "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab"
+        },
+        "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c"
+        },
+        "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52"
+        },
+        "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1"
+        },
+        "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834"
+        },
+        "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f"
+        },
+        "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d"
+        },
+        "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13"
+        },
+        "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618"
+        },
+        "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835"
+        },
+        "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64"
+        },
+        "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_spec": {
+          "prov:generalEntity": "result:file-logo-png",
+          "prov:specificEntity": "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba"
+        },
+        "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_spec": {
+          "prov:generalEntity": "result:file-fukol-demo-gif",
+          "prov:specificEntity": "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0"
+        },
+        "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_spec": {
+          "prov:generalEntity": "result:file-tweet-png",
+          "prov:specificEntity": "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0"
+        },
+        "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_spec": {
+          "prov:generalEntity": "result:file-tweet-png",
+          "prov:specificEntity": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf"
+        },
+        "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_spec": {
+          "prov:generalEntity": "result:file-tweet-png",
+          "prov:specificEntity": "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3"
+        },
+        "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62_spec": {
+          "prov:generalEntity": "result:file-tweet-png",
+          "prov:specificEntity": "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62"
+        },
+        "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_spec": {
+          "prov:generalEntity": "result:file-tweet-png",
+          "prov:specificEntity": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff"
+        },
+        "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_spec": {
+          "prov:generalEntity": "result:file-tweet-png",
+          "prov:specificEntity": "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a"
+        },
+        "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_spec": {
+          "prov:generalEntity": "result:file-LICENSE-txt",
+          "prov:specificEntity": "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6"
+        },
+        "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7_spec": {
+          "prov:generalEntity": "result:file-fukol-css",
+          "prov:specificEntity": "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7"
+        },
+        "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279_spec": {
+          "prov:generalEntity": "result:file-bower-json",
+          "prov:specificEntity": "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279"
+        }
+      },
+      "wasGeneratedBy": {
+        "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_gen": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:entity": "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:time": "2017-02-24T10:40:24.000Z"
+        },
+        "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_gen": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:entity": "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:time": "2016-10-14T07:47:35.000Z"
+        },
+        "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_gen": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:entity": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:time": "2016-10-11T14:21:17.000Z"
+        },
+        "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_gen": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:entity": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:time": "2016-10-11T13:15:59.000Z"
+        },
+        "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_gen": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:entity": "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:time": "2016-10-07T16:15:56.000Z"
+        },
+        "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_gen": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:entity": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:time": "2016-10-05T10:14:19.000Z"
+        },
+        "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_gen": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:entity": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:time": "2016-10-05T09:58:58.000Z"
+        },
+        "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_gen": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:entity": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:time": "2016-10-05T09:56:45.000Z"
+        },
+        "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_gen": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:entity": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:time": "2016-10-05T09:44:37.000Z"
+        },
+        "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_gen": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:entity": "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:time": "2016-10-04T15:15:48.000Z"
+        },
+        "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_gen": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:entity": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:time": "2016-10-04T15:13:20.000Z"
+        },
+        "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_gen": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:entity": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:time": "2016-10-04T13:56:28.000Z"
+        },
+        "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_gen": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:entity": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:time": "2016-10-04T13:55:49.000Z"
+        },
+        "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_gen": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:entity": "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:time": "2016-10-04T13:41:49.000Z"
+        },
+        "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67_gen": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:entity": "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:time": "2016-10-04T13:18:22.000Z"
+        },
+        "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_gen": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:entity": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:time": "2016-10-04T12:27:21.000Z"
+        },
+        "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_gen": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:entity": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:time": "2016-10-04T11:03:37.000Z"
+        },
+        "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_gen": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:entity": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:time": "2016-10-04T10:45:45.000Z"
+        },
+        "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_gen": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:entity": "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:time": "2016-10-03T10:03:18.000Z"
+        },
+        "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_gen": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:entity": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:time": "2016-10-03T10:02:22.000Z"
+        },
+        "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_gen": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:entity": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:time": "2016-10-03T10:02:04.000Z"
+        },
+        "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9_gen": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:entity": "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:time": "2016-10-03T09:57:51.000Z"
+        },
+        "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_gen": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:entity": "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:time": "2016-10-03T09:14:59.000Z"
+        },
+        "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_gen": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:entity": "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:time": "2016-10-02T14:39:37.000Z"
+        },
+        "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_gen": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:entity": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:time": "2016-10-02T14:35:21.000Z"
+        },
+        "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_gen": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:entity": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:time": "2016-10-02T14:07:48.000Z"
+        },
+        "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_gen": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:entity": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:time": "2016-10-02T14:03:26.000Z"
+        },
+        "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_gen": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:entity": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:time": "2016-10-02T14:00:45.000Z"
+        },
+        "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_gen": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:entity": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:time": "2016-10-02T13:53:43.000Z"
+        },
+        "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_gen": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:entity": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:time": "2016-10-02T13:49:31.000Z"
+        },
+        "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_gen": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:entity": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:time": "2016-10-02T13:48:04.000Z"
+        },
+        "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_gen": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:entity": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:time": "2016-10-02T13:46:43.000Z"
+        },
+        "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_gen": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:entity": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:time": "2016-10-02T13:31:42.000Z"
+        },
+        "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_gen": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:entity": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:time": "2016-10-02T13:29:45.000Z"
+        },
+        "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_gen": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:entity": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:time": "2016-10-02T13:29:03.000Z"
+        },
+        "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1_gen": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:entity": "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:time": "2016-10-02T12:57:54.000Z"
+        },
+        "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_gen": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:entity": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:time": "2016-10-02T12:57:39.000Z"
+        },
+        "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_gen": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:entity": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:time": "2016-10-02T12:54:23.000Z"
+        },
+        "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_gen": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:entity": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:time": "2016-10-02T12:44:34.000Z"
+        },
+        "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_gen": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:entity": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:time": "2016-10-02T12:41:06.000Z"
+        },
+        "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_gen": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:entity": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:time": "2016-10-02T12:17:02.000Z"
+        },
+        "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_gen": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:entity": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:time": "2016-10-02T09:14:58.000Z"
+        },
+        "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_gen": {
+          "prov:entity": "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:activity": "result:commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:time": "2016-10-02T08:45:46.000Z"
+        },
+        "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_gen": {
+          "prov:entity": "result:file-logo-png_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:activity": "result:commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:time": "2016-10-02T13:28:30.000Z"
+        },
+        "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_gen": {
+          "prov:entity": "result:file-fukol-demo-gif_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:activity": "result:commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:time": "2016-10-03T09:12:48.000Z"
+        },
+        "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_gen": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:entity": "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:time": "2016-10-04T13:54:27.000Z"
+        },
+        "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_gen": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:entity": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:time": "2016-10-04T13:52:27.000Z"
+        },
+        "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_gen": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:entity": "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:time": "2016-10-04T13:26:47.000Z"
+        },
+        "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62_gen": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:entity": "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:time": "2016-10-03T10:00:50.000Z"
+        },
+        "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_gen": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:entity": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:time": "2016-10-03T09:59:24.000Z"
+        },
+        "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_gen": {
+          "prov:entity": "result:file-tweet-png_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:activity": "result:commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:time": "2016-10-03T09:56:32.000Z"
+        },
+        "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_gen": {
+          "prov:entity": "result:file-LICENSE-txt_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:activity": "result:commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:time": "2016-10-04T15:23:30.000Z"
+        },
+        "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7_gen": {
+          "prov:entity": "result:file-fukol-css_commit-562f03f678352522c2dfa89ddc32461ca6be0fe7",
+          "prov:activity": "result:commit-562f03f678352522c2dfa89ddc32461ca6be0fe7",
+          "prov:time": "2016-10-25T08:39:48.000Z"
+        },
+        "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279_gen": {
+          "prov:entity": "result:file-bower-json_commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:activity": "result:commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:time": "2016-10-25T09:40:32.000Z"
+        }
+      },
+      "used": {
+        "result:file-README-md_commit-fa118e1a05accb660ae1eaa0a7893b0361555279_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_use": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:entity": "result:file-README-md_commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:time": "2017-02-24T10:40:24.000Z"
+        },
+        "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_use": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:entity": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:time": "2016-10-14T07:47:35.000Z"
+        },
+        "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_use": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:entity": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:time": "2016-10-11T14:21:17.000Z"
+        },
+        "result:file-README-md_commit-372b665497ce6603a1cb9ce7c11e47f7d63b34b9_commit-a91b625e470de444318880a3b8090cd5d56e9242_use": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:entity": "result:file-README-md_commit-372b665497ce6603a1cb9ce7c11e47f7d63b34b9",
+          "prov:time": "2016-10-11T13:15:59.000Z"
+        },
+        "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_use": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:entity": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:time": "2016-10-07T16:15:56.000Z"
+        },
+        "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_use": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:entity": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:time": "2016-10-05T10:14:19.000Z"
+        },
+        "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_use": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:entity": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:time": "2016-10-05T09:58:58.000Z"
+        },
+        "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_commit-ae3d888422723c62f678e117d5ecc44d95c843df_use": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:entity": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:time": "2016-10-05T09:56:45.000Z"
+        },
+        "result:file-README-md_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_use": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:entity": "result:file-README-md_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:time": "2016-10-05T09:44:37.000Z"
+        },
+        "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_use": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:entity": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:time": "2016-10-04T15:15:48.000Z"
+        },
+        "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_use": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:entity": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:time": "2016-10-04T15:13:20.000Z"
+        },
+        "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_use": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:entity": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:time": "2016-10-04T13:56:28.000Z"
+        },
+        "result:file-README-md_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_commit-397b11ac21360cc39cd12c423713441e257164ff_use": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:entity": "result:file-README-md_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:time": "2016-10-04T13:55:49.000Z"
+        },
+        "result:file-README-md_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_use": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:entity": "result:file-README-md_commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:time": "2016-10-04T13:41:49.000Z"
+        },
+        "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_commit-a38069d60981d59408214b391b10a0a346b4fe67_use": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:entity": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:time": "2016-10-04T13:18:22.000Z"
+        },
+        "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_use": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:entity": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:time": "2016-10-04T12:27:21.000Z"
+        },
+        "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_use": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:entity": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:time": "2016-10-04T11:03:37.000Z"
+        },
+        "result:file-README-md_commit-98265dc5ddc70f914641ff213d56fccde7189459_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_use": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:entity": "result:file-README-md_commit-98265dc5ddc70f914641ff213d56fccde7189459",
+          "prov:time": "2016-10-04T10:45:45.000Z"
+        },
+        "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_use": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:entity": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:time": "2016-10-03T10:03:18.000Z"
+        },
+        "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_use": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:entity": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:time": "2016-10-03T10:02:22.000Z"
+        },
+        "result:file-README-md_commit-402f8542aaef21a00891f74c254edcc3df473a62_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_use": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:entity": "result:file-README-md_commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:time": "2016-10-03T10:02:04.000Z"
+        },
+        "result:file-README-md_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_commit-091945243531ad440c5014547a9c19df5bc61fb9_use": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:entity": "result:file-README-md_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:time": "2016-10-03T09:57:51.000Z"
+        },
+        "result:file-README-md_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_use": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:entity": "result:file-README-md_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:time": "2016-10-03T09:14:59.000Z"
+        },
+        "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_use": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:entity": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:time": "2016-10-02T14:39:37.000Z"
+        },
+        "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_use": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:entity": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:time": "2016-10-02T14:35:21.000Z"
+        },
+        "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_use": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:entity": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:time": "2016-10-02T14:07:48.000Z"
+        },
+        "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_commit-c86019cd5bbc7f0ca69e40716286feae12412543_use": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:entity": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:time": "2016-10-02T14:03:26.000Z"
+        },
+        "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_commit-39916bddff987d14608d1e0606135bc060f48813_use": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:entity": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:time": "2016-10-02T14:00:45.000Z"
+        },
+        "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_use": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:entity": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:time": "2016-10-02T13:53:43.000Z"
+        },
+        "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_use": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:entity": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:time": "2016-10-02T13:49:31.000Z"
+        },
+        "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_use": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:entity": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:time": "2016-10-02T13:48:04.000Z"
+        },
+        "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_use": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:entity": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:time": "2016-10-02T13:46:43.000Z"
+        },
+        "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_use": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:entity": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:time": "2016-10-02T13:31:42.000Z"
+        },
+        "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_use": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:entity": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:time": "2016-10-02T13:29:45.000Z"
+        },
+        "result:file-README-md_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_use": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:entity": "result:file-README-md_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:time": "2016-10-02T13:29:03.000Z"
+        },
+        "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_commit-e609e1197ce407a1338d1454356bb640d7f100a1_use": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:entity": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:time": "2016-10-02T12:57:54.000Z"
+        },
+        "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_use": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:entity": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:time": "2016-10-02T12:57:39.000Z"
+        },
+        "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_use": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:entity": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:time": "2016-10-02T12:54:23.000Z"
+        },
+        "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_use": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:entity": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:time": "2016-10-02T12:44:34.000Z"
+        },
+        "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_use": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:entity": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:time": "2016-10-02T12:41:06.000Z"
+        },
+        "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_use": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:entity": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:time": "2016-10-02T12:17:02.000Z"
+        },
+        "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_use": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:entity": "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:time": "2016-10-02T09:14:58.000Z"
+        },
+        "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_use": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:entity": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:time": "2016-10-04T13:54:27.000Z"
+        },
+        "result:file-tweet-png_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_use": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:entity": "result:file-tweet-png_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:time": "2016-10-04T13:52:27.000Z"
+        },
+        "result:file-tweet-png_commit-a38069d60981d59408214b391b10a0a346b4fe67_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_use": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:entity": "result:file-tweet-png_commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:time": "2016-10-04T13:26:47.000Z"
+        },
+        "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_commit-402f8542aaef21a00891f74c254edcc3df473a62_use": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:entity": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:time": "2016-10-03T10:00:50.000Z"
+        },
+        "result:file-tweet-png_commit-091945243531ad440c5014547a9c19df5bc61fb9_commit-6d23ace7312c040218b793105253044f540568ff_use": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:entity": "result:file-tweet-png_commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:time": "2016-10-03T09:59:24.000Z"
+        }
+      },
+      "wasDerivedFrom": {
+        "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_fa118e1a05accb660ae1eaa0a7893b0361555279_der": {
+          "prov:activity": "result:commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:generatedEntity": "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7",
+          "prov:usedEntity": "result:file-README-md_commit-fa118e1a05accb660ae1eaa0a7893b0361555279",
+          "prov:generation": "result:file-README-md_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_gen",
+          "prov:usage": "result:file-README-md_commit-fa118e1a05accb660ae1eaa0a7893b0361555279_commit-0b77a9c826cb3dc3cec07126b9c8376ea6e415c7_use"
+        },
+        "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_990339df95e55f3f63d8cd612b3b365b197b54a1_der": {
+          "prov:activity": "result:commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:generatedEntity": "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343",
+          "prov:usedEntity": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:generation": "result:file-README-md_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_gen",
+          "prov:usage": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_commit-2581871e1f847a3ebf6d524ee2af696a916dd343_use"
+        },
+        "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_a91b625e470de444318880a3b8090cd5d56e9242_der": {
+          "prov:activity": "result:commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:generatedEntity": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1",
+          "prov:usedEntity": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:generation": "result:file-README-md_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_gen",
+          "prov:usage": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_commit-990339df95e55f3f63d8cd612b3b365b197b54a1_use"
+        },
+        "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_372b665497ce6603a1cb9ce7c11e47f7d63b34b9_der": {
+          "prov:activity": "result:commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:generatedEntity": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242",
+          "prov:usedEntity": "result:file-README-md_commit-372b665497ce6603a1cb9ce7c11e47f7d63b34b9",
+          "prov:generation": "result:file-README-md_commit-a91b625e470de444318880a3b8090cd5d56e9242_gen",
+          "prov:usage": "result:file-README-md_commit-372b665497ce6603a1cb9ce7c11e47f7d63b34b9_commit-a91b625e470de444318880a3b8090cd5d56e9242_use"
+        },
+        "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_5b4af6b73b04da579e7d19ad410ed104f29d93ea_der": {
+          "prov:activity": "result:commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:generatedEntity": "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2",
+          "prov:usedEntity": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:generation": "result:file-README-md_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_gen",
+          "prov:usage": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_commit-e1e742b67aca4f72f699c9dcbc1f4513cf6807d2_use"
+        },
+        "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_der": {
+          "prov:activity": "result:commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:generatedEntity": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea",
+          "prov:usedEntity": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:generation": "result:file-README-md_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_gen",
+          "prov:usage": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_commit-5b4af6b73b04da579e7d19ad410ed104f29d93ea_use"
+        },
+        "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_ae3d888422723c62f678e117d5ecc44d95c843df_der": {
+          "prov:activity": "result:commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:generatedEntity": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0",
+          "prov:usedEntity": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:generation": "result:file-README-md_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_gen",
+          "prov:usage": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_commit-e6a9ef592a1bf3ac6d362c5df7f4bf95c4329ca0_use"
+        },
+        "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_der": {
+          "prov:activity": "result:commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:generatedEntity": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df",
+          "prov:usedEntity": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:generation": "result:file-README-md_commit-ae3d888422723c62f678e117d5ecc44d95c843df_gen",
+          "prov:usage": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_commit-ae3d888422723c62f678e117d5ecc44d95c843df_use"
+        },
+        "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_9527da6f462fcd9f6960b7e76c3ead2d128190a6_der": {
+          "prov:activity": "result:commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:generatedEntity": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b",
+          "prov:usedEntity": "result:file-README-md_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6",
+          "prov:generation": "result:file-README-md_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_gen",
+          "prov:usage": "result:file-README-md_commit-9527da6f462fcd9f6960b7e76c3ead2d128190a6_commit-9b1b9d73367eafa7f10ab7adc0ac9d08c1511e2b_use"
+        },
+        "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_51583f9087ae0b86d5b15dca3c60c56a312057f5_der": {
+          "prov:activity": "result:commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:generatedEntity": "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6",
+          "prov:usedEntity": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:generation": "result:file-README-md_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_gen",
+          "prov:usage": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_commit-525f53a2765dbf063c1c151d747b98c8ef4b95d6_use"
+        },
+        "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_b1d61ba36e364a1e41ce20fd795b2c783060bbea_der": {
+          "prov:activity": "result:commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:generatedEntity": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5",
+          "prov:usedEntity": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:generation": "result:file-README-md_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_gen",
+          "prov:usage": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_commit-51583f9087ae0b86d5b15dca3c60c56a312057f5_use"
+        },
+        "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_397b11ac21360cc39cd12c423713441e257164ff_der": {
+          "prov:activity": "result:commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:generatedEntity": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea",
+          "prov:usedEntity": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:generation": "result:file-README-md_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_gen",
+          "prov:usage": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_commit-b1d61ba36e364a1e41ce20fd795b2c783060bbea_use"
+        },
+        "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_der": {
+          "prov:activity": "result:commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:generatedEntity": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff",
+          "prov:usedEntity": "result:file-README-md_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:generation": "result:file-README-md_commit-397b11ac21360cc39cd12c423713441e257164ff_gen",
+          "prov:usage": "result:file-README-md_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_commit-397b11ac21360cc39cd12c423713441e257164ff_use"
+        },
+        "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_c7eed1e0e87299c658cd4755668dccf9354879b3_der": {
+          "prov:activity": "result:commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:generatedEntity": "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:usedEntity": "result:file-README-md_commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:generation": "result:file-README-md_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_gen",
+          "prov:usage": "result:file-README-md_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_use"
+        },
+        "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67_7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_der": {
+          "prov:activity": "result:commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:generatedEntity": "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:usedEntity": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:generation": "result:file-README-md_commit-a38069d60981d59408214b391b10a0a346b4fe67_gen",
+          "prov:usage": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_commit-a38069d60981d59408214b391b10a0a346b4fe67_use"
+        },
+        "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_9709eccd94fdd9229b2a1835025e75fa4f0a8959_der": {
+          "prov:activity": "result:commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:generatedEntity": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca",
+          "prov:usedEntity": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:generation": "result:file-README-md_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_gen",
+          "prov:usage": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_commit-7c80bdb8d4f3171b1ee3be94266ccd2feabae7ca_use"
+        },
+        "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_der": {
+          "prov:activity": "result:commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:generatedEntity": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959",
+          "prov:usedEntity": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:generation": "result:file-README-md_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_gen",
+          "prov:usage": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_commit-9709eccd94fdd9229b2a1835025e75fa4f0a8959_use"
+        },
+        "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_98265dc5ddc70f914641ff213d56fccde7189459_der": {
+          "prov:activity": "result:commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:generatedEntity": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc",
+          "prov:usedEntity": "result:file-README-md_commit-98265dc5ddc70f914641ff213d56fccde7189459",
+          "prov:generation": "result:file-README-md_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_gen",
+          "prov:usage": "result:file-README-md_commit-98265dc5ddc70f914641ff213d56fccde7189459_commit-d55ae3b0fa20c3afa0148c90ce7ab56d9f69a7fc_use"
+        },
+        "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_8095a65c0891fad8c7e7f3a26269e3aa5a241abb_der": {
+          "prov:activity": "result:commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:generatedEntity": "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71",
+          "prov:usedEntity": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:generation": "result:file-README-md_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_gen",
+          "prov:usage": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_commit-05891aa076a548e7e5f8ec1c6318ddf402140c71_use"
+        },
+        "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_fdbfd71215fd1a23d630b78421546c08d7e447eb_der": {
+          "prov:activity": "result:commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:generatedEntity": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb",
+          "prov:usedEntity": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:generation": "result:file-README-md_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_gen",
+          "prov:usage": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_commit-8095a65c0891fad8c7e7f3a26269e3aa5a241abb_use"
+        },
+        "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_402f8542aaef21a00891f74c254edcc3df473a62_der": {
+          "prov:activity": "result:commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:generatedEntity": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb",
+          "prov:usedEntity": "result:file-README-md_commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:generation": "result:file-README-md_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_gen",
+          "prov:usage": "result:file-README-md_commit-402f8542aaef21a00891f74c254edcc3df473a62_commit-fdbfd71215fd1a23d630b78421546c08d7e447eb_use"
+        },
+        "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9_15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_der": {
+          "prov:activity": "result:commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:generatedEntity": "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:usedEntity": "result:file-README-md_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a",
+          "prov:generation": "result:file-README-md_commit-091945243531ad440c5014547a9c19df5bc61fb9_gen",
+          "prov:usage": "result:file-README-md_commit-15ecfdfb5f00f71aab7a7dcca15c8d3c1a128e1a_commit-091945243531ad440c5014547a9c19df5bc61fb9_use"
+        },
+        "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_af374de7368a566b9035a74cf3d7b042f6ef84e0_der": {
+          "prov:activity": "result:commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:generatedEntity": "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc",
+          "prov:usedEntity": "result:file-README-md_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0",
+          "prov:generation": "result:file-README-md_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_gen",
+          "prov:usage": "result:file-README-md_commit-af374de7368a566b9035a74cf3d7b042f6ef84e0_commit-cc8f8b03c8fbd1375f28c908f8cb6697b11385dc_use"
+        },
+        "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_191b5bad66619edafcbdf6b2a232d522d79897f4_der": {
+          "prov:activity": "result:commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:generatedEntity": "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b",
+          "prov:usedEntity": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:generation": "result:file-README-md_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_gen",
+          "prov:usage": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_commit-6f915e97ae93d22a061157f1e7bcd70fe617b02b_use"
+        },
+        "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_2261775cd60200ddf7cce4456007ee1ea9b11720_der": {
+          "prov:activity": "result:commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:generatedEntity": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4",
+          "prov:usedEntity": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:generation": "result:file-README-md_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_gen",
+          "prov:usage": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_commit-191b5bad66619edafcbdf6b2a232d522d79897f4_use"
+        },
+        "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_c86019cd5bbc7f0ca69e40716286feae12412543_der": {
+          "prov:activity": "result:commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:generatedEntity": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720",
+          "prov:usedEntity": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:generation": "result:file-README-md_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_gen",
+          "prov:usage": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_commit-2261775cd60200ddf7cce4456007ee1ea9b11720_use"
+        },
+        "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_39916bddff987d14608d1e0606135bc060f48813_der": {
+          "prov:activity": "result:commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:generatedEntity": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543",
+          "prov:usedEntity": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:generation": "result:file-README-md_commit-c86019cd5bbc7f0ca69e40716286feae12412543_gen",
+          "prov:usage": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_commit-c86019cd5bbc7f0ca69e40716286feae12412543_use"
+        },
+        "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_1baf8675d1a6e2f0770267b338c361f139f9f9ba_der": {
+          "prov:activity": "result:commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:generatedEntity": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813",
+          "prov:usedEntity": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:generation": "result:file-README-md_commit-39916bddff987d14608d1e0606135bc060f48813_gen",
+          "prov:usage": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_commit-39916bddff987d14608d1e0606135bc060f48813_use"
+        },
+        "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_ff7f69000cbaf2779f0a221e9b65ac5f681658b8_der": {
+          "prov:activity": "result:commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:generatedEntity": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba",
+          "prov:usedEntity": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:generation": "result:file-README-md_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_gen",
+          "prov:usage": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_commit-1baf8675d1a6e2f0770267b338c361f139f9f9ba_use"
+        },
+        "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_2c7a9a392345cc3add0dd7478379be35e1bfc7fa_der": {
+          "prov:activity": "result:commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:generatedEntity": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8",
+          "prov:usedEntity": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:generation": "result:file-README-md_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_gen",
+          "prov:usage": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_commit-ff7f69000cbaf2779f0a221e9b65ac5f681658b8_use"
+        },
+        "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_9711353d50cfeb6fa511e305b26d4f36d1e26987_der": {
+          "prov:activity": "result:commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:generatedEntity": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa",
+          "prov:usedEntity": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:generation": "result:file-README-md_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_gen",
+          "prov:usage": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_commit-2c7a9a392345cc3add0dd7478379be35e1bfc7fa_use"
+        },
+        "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_6f6ef81a33fb421808b30a2a1b475fbec91872ab_der": {
+          "prov:activity": "result:commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:generatedEntity": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987",
+          "prov:usedEntity": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:generation": "result:file-README-md_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_gen",
+          "prov:usage": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_commit-9711353d50cfeb6fa511e305b26d4f36d1e26987_use"
+        },
+        "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_der": {
+          "prov:activity": "result:commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:generatedEntity": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab",
+          "prov:usedEntity": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:generation": "result:file-README-md_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_gen",
+          "prov:usage": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_commit-6f6ef81a33fb421808b30a2a1b475fbec91872ab_use"
+        },
+        "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_b34a1e34ab2f35b66d11ec7561b9569271035d52_der": {
+          "prov:activity": "result:commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:generatedEntity": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c",
+          "prov:usedEntity": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:generation": "result:file-README-md_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_gen",
+          "prov:usage": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_commit-9ec8f679412af7b5b75cc72f6fbff2bab9f1f37c_use"
+        },
+        "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_6a466cd5064ddc35ae3e185d25bf291cfc5aedba_der": {
+          "prov:activity": "result:commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:generatedEntity": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52",
+          "prov:usedEntity": "result:file-README-md_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba",
+          "prov:generation": "result:file-README-md_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_gen",
+          "prov:usage": "result:file-README-md_commit-6a466cd5064ddc35ae3e185d25bf291cfc5aedba_commit-b34a1e34ab2f35b66d11ec7561b9569271035d52_use"
+        },
+        "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1_56c7c4bd94eb997d3053955f32fc487d2c6aa834_der": {
+          "prov:activity": "result:commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:generatedEntity": "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1",
+          "prov:usedEntity": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:generation": "result:file-README-md_commit-e609e1197ce407a1338d1454356bb640d7f100a1_gen",
+          "prov:usage": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_commit-e609e1197ce407a1338d1454356bb640d7f100a1_use"
+        },
+        "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_7de392e1bc5d51c50b078c729e3be4f0c72bd13f_der": {
+          "prov:activity": "result:commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:generatedEntity": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834",
+          "prov:usedEntity": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:generation": "result:file-README-md_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_gen",
+          "prov:usage": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_commit-56c7c4bd94eb997d3053955f32fc487d2c6aa834_use"
+        },
+        "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_der": {
+          "prov:activity": "result:commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:generatedEntity": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f",
+          "prov:usedEntity": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:generation": "result:file-README-md_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_gen",
+          "prov:usage": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_commit-7de392e1bc5d51c50b078c729e3be4f0c72bd13f_use"
+        },
+        "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_51137bc0765e858f3e5ccf6daaaf193d6107df13_der": {
+          "prov:activity": "result:commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:generatedEntity": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d",
+          "prov:usedEntity": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:generation": "result:file-README-md_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_gen",
+          "prov:usage": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_commit-7fa05d4decb9c687d9e07fef3ece8e27c8b09d1d_use"
+        },
+        "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_08a4047430cd9f190163f7915f7391b1ea8ac618_der": {
+          "prov:activity": "result:commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:generatedEntity": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13",
+          "prov:usedEntity": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:generation": "result:file-README-md_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_gen",
+          "prov:usage": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_commit-51137bc0765e858f3e5ccf6daaaf193d6107df13_use"
+        },
+        "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_4f733d6a6e0551daccad1ecc80b8782d07771835_der": {
+          "prov:activity": "result:commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:generatedEntity": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618",
+          "prov:usedEntity": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:generation": "result:file-README-md_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_gen",
+          "prov:usage": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_commit-08a4047430cd9f190163f7915f7391b1ea8ac618_use"
+        },
+        "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_der": {
+          "prov:activity": "result:commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:generatedEntity": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835",
+          "prov:usedEntity": "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64",
+          "prov:generation": "result:file-README-md_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_gen",
+          "prov:usage": "result:file-README-md_commit-d1bd49d65c4d30f13610cc8ed7ca72bb14d49e64_commit-4f733d6a6e0551daccad1ecc80b8782d07771835_use"
+        },
+        "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_fc85b56d1b93efc0818427d46727acfaf44528bf_der": {
+          "prov:activity": "result:commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:generatedEntity": "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0",
+          "prov:usedEntity": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:generation": "result:file-tweet-png_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_gen",
+          "prov:usage": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_commit-ea8b1a90ba36791cf4a8956ce7ed96526a85d9c0_use"
+        },
+        "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_der": {
+          "prov:activity": "result:commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:generatedEntity": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf",
+          "prov:usedEntity": "result:file-tweet-png_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b",
+          "prov:generation": "result:file-tweet-png_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_gen",
+          "prov:usage": "result:file-tweet-png_commit-5cf6a2e3657290ecd7aa928c361ee65ca060ef0b_commit-fc85b56d1b93efc0818427d46727acfaf44528bf_use"
+        },
+        "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_a38069d60981d59408214b391b10a0a346b4fe67_der": {
+          "prov:activity": "result:commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:generatedEntity": "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3",
+          "prov:usedEntity": "result:file-tweet-png_commit-a38069d60981d59408214b391b10a0a346b4fe67",
+          "prov:generation": "result:file-tweet-png_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_gen",
+          "prov:usage": "result:file-tweet-png_commit-a38069d60981d59408214b391b10a0a346b4fe67_commit-c7eed1e0e87299c658cd4755668dccf9354879b3_use"
+        },
+        "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62_6d23ace7312c040218b793105253044f540568ff_der": {
+          "prov:activity": "result:commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:generatedEntity": "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62",
+          "prov:usedEntity": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:generation": "result:file-tweet-png_commit-402f8542aaef21a00891f74c254edcc3df473a62_gen",
+          "prov:usage": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_commit-402f8542aaef21a00891f74c254edcc3df473a62_use"
+        },
+        "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_091945243531ad440c5014547a9c19df5bc61fb9_der": {
+          "prov:activity": "result:commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:generatedEntity": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff",
+          "prov:usedEntity": "result:file-tweet-png_commit-091945243531ad440c5014547a9c19df5bc61fb9",
+          "prov:generation": "result:file-tweet-png_commit-6d23ace7312c040218b793105253044f540568ff_gen",
+          "prov:usage": "result:file-tweet-png_commit-091945243531ad440c5014547a9c19df5bc61fb9_commit-6d23ace7312c040218b793105253044f540568ff_use"
+        }
+      },
+      "wasInvalidatedBy": {}
+    }
+  }
+}

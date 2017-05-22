@@ -1,0 +1,2412 @@
+{
+  "prefix": {
+    "result": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2Fccoenraets%2Fnodecellar.git&serialization=PROV-JSON#",
+    "fullResult": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2Fccoenraets%2Fnodecellar.git&serialization=PROV-JSON#"
+  },
+  "bundle": {
+    "result:provenance": {
+      "entity": {
+        "result:file-public-dashboard-html": {
+          "prov:label": "public/dashboard.html"
+        },
+        "result:file-serverwithanalytics-js": {
+          "prov:label": "serverwithanalytics.js"
+        },
+        "result:file-Procfile": {
+          "prov:label": "Procfile"
+        },
+        "result:file--gitignore": {
+          "prov:label": ".gitignore"
+        },
+        "result:file-readme-md": {
+          "prov:label": "readme.md"
+        },
+        "result:file-package-json": {
+          "prov:label": "package.json"
+        },
+        "result:file-public-css-bootstrap-responsive-css": {
+          "prov:label": "public/css/bootstrap-responsive.css"
+        },
+        "result:file-public-css-bootstrap-responsive-min-css": {
+          "prov:label": "public/css/bootstrap-responsive.min.css"
+        },
+        "result:file-public-css-bootstrap-css": {
+          "prov:label": "public/css/bootstrap.css"
+        },
+        "result:file-public-css-bootstrap-min-css": {
+          "prov:label": "public/css/bootstrap.min.css"
+        },
+        "result:file-public-css-img-bg-jpg": {
+          "prov:label": "public/css/img/bg.jpg"
+        },
+        "result:file-public-css-styles-css": {
+          "prov:label": "public/css/styles.css"
+        },
+        "result:file-public-img-blog-png": {
+          "prov:label": "public/img/blog.png"
+        },
+        "result:file-public-img-discuss-png": {
+          "prov:label": "public/img/discuss.png"
+        },
+        "result:file-public-img-download-png": {
+          "prov:label": "public/img/download.png"
+        },
+        "result:file-public-img-github-png": {
+          "prov:label": "public/img/github.png"
+        },
+        "result:file-public-img-glyphicons-halflings-white-png": {
+          "prov:label": "public/img/glyphicons-halflings-white.png"
+        },
+        "result:file-public-img-glyphicons-halflings-png": {
+          "prov:label": "public/img/glyphicons-halflings.png"
+        },
+        "result:file-public-img-twitter-png": {
+          "prov:label": "public/img/twitter.png"
+        },
+        "result:file-public-img-wine-png": {
+          "prov:label": "public/img/wine.png"
+        },
+        "result:file-public-index-html": {
+          "prov:label": "public/index.html"
+        },
+        "result:file-public-js-main-js": {
+          "prov:label": "public/js/main.js"
+        },
+        "result:file-public-js-models-models-js": {
+          "prov:label": "public/js/models/models.js"
+        },
+        "result:file-public-js-utils-js": {
+          "prov:label": "public/js/utils.js"
+        },
+        "result:file-public-js-views-about-js": {
+          "prov:label": "public/js/views/about.js"
+        },
+        "result:file-public-js-views-header-js": {
+          "prov:label": "public/js/views/header.js"
+        },
+        "result:file-public-js-views-home-js": {
+          "prov:label": "public/js/views/home.js"
+        },
+        "result:file-public-js-views-paginator-js": {
+          "prov:label": "public/js/views/paginator.js"
+        },
+        "result:file-public-js-views-winedetails-js": {
+          "prov:label": "public/js/views/winedetails.js"
+        },
+        "result:file-public-js-views-winelist-js": {
+          "prov:label": "public/js/views/winelist.js"
+        },
+        "result:file-public-lib-backbone-min-js": {
+          "prov:label": "public/lib/backbone-min.js"
+        },
+        "result:file-public-lib-bootstrap-min-js": {
+          "prov:label": "public/lib/bootstrap.min.js"
+        },
+        "result:file-public-lib-jquery-1-8-2-min-js": {
+          "prov:label": "public/lib/jquery-1.8.2.min.js"
+        },
+        "result:file-public-lib-underscore-min-js": {
+          "prov:label": "public/lib/underscore-min.js"
+        },
+        "result:file-public-pics-argiano-jpg": {
+          "prov:label": "public/pics/argiano.jpg"
+        },
+        "result:file-public-pics-block_nine-jpg": {
+          "prov:label": "public/pics/block_nine.jpg"
+        },
+        "result:file-public-pics-bodega_lurton-jpg": {
+          "prov:label": "public/pics/bodega_lurton.jpg"
+        },
+        "result:file-public-pics-bouscat-jpg": {
+          "prov:label": "public/pics/bouscat.jpg"
+        },
+        "result:file-public-pics-calera-jpg": {
+          "prov:label": "public/pics/calera.jpg"
+        },
+        "result:file-public-pics-capineto-png": {
+          "prov:label": "public/pics/capineto.png"
+        },
+        "result:file-public-pics-caronne-jpg": {
+          "prov:label": "public/pics/caronne.jpg"
+        },
+        "result:file-public-pics-dinastia-jpg": {
+          "prov:label": "public/pics/dinastia.jpg"
+        },
+        "result:file-public-pics-domaine_serene-jpg": {
+          "prov:label": "public/pics/domaine_serene.jpg"
+        },
+        "result:file-public-pics-ex_umbris-jpg": {
+          "prov:label": "public/pics/ex_umbris.jpg"
+        },
+        "result:file-public-pics-fourvines-jpg": {
+          "prov:label": "public/pics/fourvines.jpg"
+        },
+        "result:file-public-pics-generic-jpg": {
+          "prov:label": "public/pics/generic.jpg"
+        },
+        "result:file-public-pics-hugel-jpg": {
+          "prov:label": "public/pics/hugel.jpg"
+        },
+        "result:file-public-pics-lan_rioja-jpg": {
+          "prov:label": "public/pics/lan_rioja.jpg"
+        },
+        "result:file-public-pics-le_doyenne-jpg": {
+          "prov:label": "public/pics/le_doyenne.jpg"
+        },
+        "result:file-public-pics-margerum-jpg": {
+          "prov:label": "public/pics/margerum.jpg"
+        },
+        "result:file-public-pics-momo-jpg": {
+          "prov:label": "public/pics/momo.jpg"
+        },
+        "result:file-public-pics-morizottes-jpg": {
+          "prov:label": "public/pics/morizottes.jpg"
+        },
+        "result:file-public-pics-petalos-jpg": {
+          "prov:label": "public/pics/petalos.jpg"
+        },
+        "result:file-public-pics-ponzi-jpg": {
+          "prov:label": "public/pics/ponzi.jpg"
+        },
+        "result:file-public-pics-quivira-jpg": {
+          "prov:label": "public/pics/quivira.jpg"
+        },
+        "result:file-public-pics-rex_hill-jpg": {
+          "prov:label": "public/pics/rex_hill.jpg"
+        },
+        "result:file-public-pics-saint_cosme-jpg": {
+          "prov:label": "public/pics/saint_cosme.jpg"
+        },
+        "result:file-public-pics-shafer-jpg": {
+          "prov:label": "public/pics/shafer.jpg"
+        },
+        "result:file-public-pics-viticcio-jpg": {
+          "prov:label": "public/pics/viticcio.jpg"
+        },
+        "result:file-public-pics-waterbrook-jpg": {
+          "prov:label": "public/pics/waterbrook.jpg"
+        },
+        "result:file-public-readme-md": {
+          "prov:label": "public/readme.md"
+        },
+        "result:file-public-tpl-AboutView-html": {
+          "prov:label": "public/tpl/AboutView.html"
+        },
+        "result:file-public-tpl-HeaderView-html": {
+          "prov:label": "public/tpl/HeaderView.html"
+        },
+        "result:file-public-tpl-HomeView-html": {
+          "prov:label": "public/tpl/HomeView.html"
+        },
+        "result:file-public-tpl-WineListItemView-html": {
+          "prov:label": "public/tpl/WineListItemView.html"
+        },
+        "result:file-public-tpl-WineView-html": {
+          "prov:label": "public/tpl/WineView.html"
+        },
+        "result:file-routes-wines-js": {
+          "prov:label": "routes/wines.js"
+        },
+        "result:file-server-js": {
+          "prov:label": "server.js"
+        },
+        "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb": {},
+        "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe": {},
+        "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953": {},
+        "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1": {},
+        "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5": {},
+        "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2": {},
+        "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2": {},
+        "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04": {},
+        "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d": {},
+        "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953": {},
+        "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a": {},
+        "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c": {},
+        "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c": {},
+        "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04": {},
+        "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b": {},
+        "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193": {},
+        "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2": {},
+        "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c": {},
+        "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {},
+        "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772": {},
+        "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408": {},
+        "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463": {},
+        "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d": {},
+        "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d": {},
+        "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff": {},
+        "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b": {},
+        "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c": {},
+        "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5": {},
+        "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b": {},
+        "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c": {},
+        "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a": {},
+        "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c": {}
+      },
+      "agent": {
+        "result:user-Christophe-Coenraets": {
+          "prov:label": "Christophe Coenraets"
+        },
+        "result:user-James-Ward": {
+          "prov:label": "James Ward"
+        }
+      },
+      "activity": {
+        "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb": {
+          "prov:label": "format"
+        },
+        "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe": {
+          "prov:label": "tabs to spaces"
+        },
+        "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035": {
+          "prov:label": "Initial Commit"
+        },
+        "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953": {
+          "prov:label": "Comment out socket.io script in index.html by default"
+        },
+        "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1": {
+          "prov:label": "re-enabled crud"
+        },
+        "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5": {
+          "prov:label": "read-only version for demo"
+        },
+        "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2": {
+          "prov:label": "connect using a MONGOLAB_URI if provided"
+        },
+        "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2": {
+          "prov:label": "Fixed status bar"
+        },
+        "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04": {
+          "prov:label": "Tweak media queries"
+        },
+        "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d": {
+          "prov:label": "Adding readme"
+        },
+        "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a": {
+          "prov:label": "fixed connection"
+        },
+        "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c": {
+          "prov:label": "Adding analytics"
+        },
+        "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b": {
+          "prov:label": "changed config"
+        },
+        "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193": {
+          "prov:label": "bump the npm version number"
+        },
+        "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c": {
+          "prov:label": "define engines"
+        },
+        "result:commit-e184da9cea85e7a2fac296268e340476f3795772": {
+          "prov:label": "readme change"
+        },
+        "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408": {
+          "prov:label": "readme change"
+        },
+        "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463": {
+          "prov:label": "add instructions for running on Heroku"
+        },
+        "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d": {
+          "prov:label": ".gitignore"
+        },
+        "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff": {
+          "prov:label": "resolved conflicts"
+        },
+        "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c": {
+          "prov:label": "add Procfile so Heroku knows what web process to start"
+        },
+        "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5": {
+          "prov:label": "removed heroku specific socket.io settings"
+        }
+      },
+      "wasStartedBy": {
+        "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_start": {
+          "prov:activity": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:time": "2012-10-10T16:19:13.000Z"
+        },
+        "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_start": {
+          "prov:activity": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:time": "2012-10-04T20:15:26.000Z"
+        },
+        "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035_start": {
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_start": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:time": "2012-10-10T16:10:10.000Z"
+        },
+        "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_start": {
+          "prov:activity": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:time": "2012-10-10T15:19:39.000Z"
+        },
+        "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5_start": {
+          "prov:activity": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:time": "2012-10-04T21:29:58.000Z"
+        },
+        "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_start": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:time": "2012-10-04T20:43:27.000Z"
+        },
+        "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_start": {
+          "prov:activity": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:time": "2012-10-05T17:39:34.000Z"
+        },
+        "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_start": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:time": "2012-10-05T17:35:22.000Z"
+        },
+        "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_start": {
+          "prov:activity": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-04T15:28:32.000Z"
+        },
+        "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_start": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:time": "2012-10-10T14:57:19.000Z"
+        },
+        "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c_start": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_start": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_start": {
+          "prov:activity": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:time": "2012-10-04T20:48:36.000Z"
+        },
+        "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_start": {
+          "prov:activity": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:time": "2012-10-04T20:16:12.000Z"
+        },
+        "result:commit-e184da9cea85e7a2fac296268e340476f3795772_start": {
+          "prov:activity": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:time": "2012-10-10T16:17:35.000Z"
+        },
+        "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_start": {
+          "prov:activity": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:time": "2012-10-10T16:16:27.000Z"
+        },
+        "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_start": {
+          "prov:activity": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:time": "2012-10-04T20:53:36.000Z"
+        },
+        "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_start": {
+          "prov:activity": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:time": "2012-10-10T16:12:25.000Z"
+        },
+        "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_start": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:time": "2012-10-10T14:40:12.000Z"
+        },
+        "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_start": {
+          "prov:activity": "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:time": "2012-10-04T20:50:11.000Z"
+        },
+        "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_start": {
+          "prov:activity": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:time": "2012-10-10T16:48:06.000Z"
+        }
+      },
+      "wasEndedBy": {
+        "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_end": {
+          "prov:activity": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:time": "2012-10-10T16:19:13.000Z"
+        },
+        "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_end": {
+          "prov:activity": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:time": "2012-10-04T20:15:26.000Z"
+        },
+        "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035_end": {
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_end": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:time": "2012-10-10T16:10:10.000Z"
+        },
+        "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_end": {
+          "prov:activity": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:time": "2012-10-10T15:19:39.000Z"
+        },
+        "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5_end": {
+          "prov:activity": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:time": "2012-10-04T21:29:58.000Z"
+        },
+        "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_end": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:time": "2012-10-04T20:43:27.000Z"
+        },
+        "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_end": {
+          "prov:activity": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:time": "2012-10-05T17:39:34.000Z"
+        },
+        "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_end": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:time": "2012-10-05T17:35:22.000Z"
+        },
+        "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_end": {
+          "prov:activity": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-04T15:28:32.000Z"
+        },
+        "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_end": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:time": "2012-10-10T14:57:19.000Z"
+        },
+        "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c_end": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_end": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_end": {
+          "prov:activity": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:time": "2012-10-04T20:48:36.000Z"
+        },
+        "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_end": {
+          "prov:activity": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:time": "2012-10-04T20:16:12.000Z"
+        },
+        "result:commit-e184da9cea85e7a2fac296268e340476f3795772_end": {
+          "prov:activity": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:time": "2012-10-10T16:17:35.000Z"
+        },
+        "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_end": {
+          "prov:activity": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:time": "2012-10-10T16:16:27.000Z"
+        },
+        "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_end": {
+          "prov:activity": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:time": "2012-10-04T20:53:36.000Z"
+        },
+        "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_end": {
+          "prov:activity": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:time": "2012-10-10T16:12:25.000Z"
+        },
+        "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_end": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:time": "2012-10-10T14:40:12.000Z"
+        },
+        "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_end": {
+          "prov:activity": "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:time": "2012-10-04T20:50:11.000Z"
+        },
+        "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_end": {
+          "prov:activity": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:time": "2012-10-10T16:48:06.000Z"
+        }
+      },
+      "wasAttributedTo": {
+        "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_user-James-Ward_attr": {
+          "prov:entity": "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_user-James-Ward_attr": {
+          "prov:entity": "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_user-James-Ward_attr": {
+          "prov:entity": "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_user-James-Ward_attr": {
+          "prov:entity": "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_user-James-Ward_attr": {
+          "prov:entity": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_user-James-Ward_attr": {
+          "prov:entity": "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_user-James-Ward_attr": {
+          "prov:entity": "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_user-James-Ward_attr": {
+          "prov:entity": "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:agent": "result:user-James-Ward",
+          "prov:type": "authorship"
+        },
+        "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        },
+        "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_user-Christophe-Coenraets_attr": {
+          "prov:entity": "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:type": "authorship"
+        }
+      },
+      "wasAssociatedWith": {
+        "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-e184da9cea85e7a2fac296268e340476f3795772_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        },
+        "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_user-James-Ward_assoc": {
+          "prov:activity": "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:agent": "result:user-James-Ward",
+          "prov:role": "author, committer"
+        },
+        "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_user-Christophe-Coenraets_assoc": {
+          "prov:activity": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:agent": "result:user-Christophe-Coenraets",
+          "prov:role": "author, committer"
+        }
+      },
+      "wasInformedBy": {
+        "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_e184da9cea85e7a2fac296268e340476f3795772_comm": {
+          "prov:informant": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:informed": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb"
+        },
+        "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_comm": {
+          "prov:informant": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:informed": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe"
+        },
+        "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_71ce721270a81fad6fd38fb69fe1a610ce17a0e1_comm": {
+          "prov:informant": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:informed": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953"
+        },
+        "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_ba4431af17b3ae088d3f6f2969b73ad0f891623a_comm": {
+          "prov:informant": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:informed": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1"
+        },
+        "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5_5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_comm": {
+          "prov:informant": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:informed": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5"
+        },
+        "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_comm": {
+          "prov:informant": "result:commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6",
+          "prov:informed": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2"
+        },
+        "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1_comm": {
+          "prov:informant": "result:commit-1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1",
+          "prov:informed": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2"
+        },
+        "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_comm": {
+          "prov:informant": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:informed": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04"
+        },
+        "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_comm": {
+          "prov:informant": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:informed": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a"
+        },
+        "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c_d95f6adfd4e6d12b25a287281ee830934ce4b657_comm": {
+          "prov:informant": "result:commit-d95f6adfd4e6d12b25a287281ee830934ce4b657",
+          "prov:informed": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c"
+        },
+        "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_comm": {
+          "prov:informant": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:informed": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b"
+        },
+        "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_comm": {
+          "prov:informant": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:informed": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193"
+        },
+        "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_comm": {
+          "prov:informant": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:informed": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c"
+        },
+        "result:commit-e184da9cea85e7a2fac296268e340476f3795772_b0497ca6f8134cdfffa9385a48dabb8dfbb52408_comm": {
+          "prov:informant": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:informed": "result:commit-e184da9cea85e7a2fac296268e340476f3795772"
+        },
+        "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_d386cea975a32ebff142a0e9b775ad15f5f2cf2d_comm": {
+          "prov:informant": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:informed": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408"
+        },
+        "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_9046457fa6d2cf461fc6b4842a857ae6b6ba940c_comm": {
+          "prov:informant": "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:informed": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463"
+        },
+        "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_1f43c3780e346b9a72ad31d38fddf0c5d9094953_comm": {
+          "prov:informant": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:informed": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d"
+        },
+        "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_6b22a9bc438322d794326bef352b6a43153a7e0c_comm": {
+          "prov:informant": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:informed": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff"
+        },
+        "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_7f50efff47ecb6b65647cfeffb6d36e498081ebb_comm": {
+          "prov:informant": "result:commit-7f50efff47ecb6b65647cfeffb6d36e498081ebb",
+          "prov:informed": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff"
+        },
+        "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_597659b14afe4e37aa512380d56d5a3751f5a8fb_comm": {
+          "prov:informant": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:informed": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5"
+        }
+      },
+      "specializationOf": {
+        "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_spec": {
+          "prov:generalEntity": "result:file-server-js",
+          "prov:specificEntity": "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb"
+        },
+        "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_spec": {
+          "prov:generalEntity": "result:file-server-js",
+          "prov:specificEntity": "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe"
+        },
+        "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-server-js",
+          "prov:specificEntity": "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_spec": {
+          "prov:generalEntity": "result:file-routes-wines-js",
+          "prov:specificEntity": "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953"
+        },
+        "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_spec": {
+          "prov:generalEntity": "result:file-routes-wines-js",
+          "prov:specificEntity": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1"
+        },
+        "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_spec": {
+          "prov:generalEntity": "result:file-routes-wines-js",
+          "prov:specificEntity": "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5"
+        },
+        "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_spec": {
+          "prov:generalEntity": "result:file-routes-wines-js",
+          "prov:specificEntity": "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2"
+        },
+        "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-routes-wines-js",
+          "prov:specificEntity": "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_spec": {
+          "prov:generalEntity": "result:file-public-tpl-WineView-html",
+          "prov:specificEntity": "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2"
+        },
+        "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-tpl-WineView-html",
+          "prov:specificEntity": "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-tpl-WineListItemView-html",
+          "prov:specificEntity": "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_spec": {
+          "prov:generalEntity": "result:file-public-tpl-HomeView-html",
+          "prov:specificEntity": "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04"
+        },
+        "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-tpl-HomeView-html",
+          "prov:specificEntity": "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-tpl-HeaderView-html",
+          "prov:specificEntity": "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-tpl-AboutView-html",
+          "prov:specificEntity": "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_spec": {
+          "prov:generalEntity": "result:file-public-readme-md",
+          "prov:specificEntity": "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d"
+        },
+        "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-readme-md",
+          "prov:specificEntity": "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-waterbrook-jpg",
+          "prov:specificEntity": "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-viticcio-jpg",
+          "prov:specificEntity": "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-shafer-jpg",
+          "prov:specificEntity": "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-saint_cosme-jpg",
+          "prov:specificEntity": "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-rex_hill-jpg",
+          "prov:specificEntity": "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-quivira-jpg",
+          "prov:specificEntity": "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-ponzi-jpg",
+          "prov:specificEntity": "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-petalos-jpg",
+          "prov:specificEntity": "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-morizottes-jpg",
+          "prov:specificEntity": "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-momo-jpg",
+          "prov:specificEntity": "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-margerum-jpg",
+          "prov:specificEntity": "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-le_doyenne-jpg",
+          "prov:specificEntity": "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-lan_rioja-jpg",
+          "prov:specificEntity": "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-hugel-jpg",
+          "prov:specificEntity": "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-generic-jpg",
+          "prov:specificEntity": "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-fourvines-jpg",
+          "prov:specificEntity": "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-ex_umbris-jpg",
+          "prov:specificEntity": "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-domaine_serene-jpg",
+          "prov:specificEntity": "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-dinastia-jpg",
+          "prov:specificEntity": "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-caronne-jpg",
+          "prov:specificEntity": "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-capineto-png",
+          "prov:specificEntity": "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-calera-jpg",
+          "prov:specificEntity": "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-bouscat-jpg",
+          "prov:specificEntity": "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-bodega_lurton-jpg",
+          "prov:specificEntity": "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-block_nine-jpg",
+          "prov:specificEntity": "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-pics-argiano-jpg",
+          "prov:specificEntity": "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-lib-underscore-min-js",
+          "prov:specificEntity": "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-lib-jquery-1-8-2-min-js",
+          "prov:specificEntity": "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-lib-bootstrap-min-js",
+          "prov:specificEntity": "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-lib-backbone-min-js",
+          "prov:specificEntity": "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-views-winelist-js",
+          "prov:specificEntity": "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-views-winedetails-js",
+          "prov:specificEntity": "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-views-paginator-js",
+          "prov:specificEntity": "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-views-home-js",
+          "prov:specificEntity": "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-views-header-js",
+          "prov:specificEntity": "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-views-about-js",
+          "prov:specificEntity": "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-utils-js",
+          "prov:specificEntity": "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-models-models-js",
+          "prov:specificEntity": "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-js-main-js",
+          "prov:specificEntity": "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_spec": {
+          "prov:generalEntity": "result:file-public-index-html",
+          "prov:specificEntity": "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953"
+        },
+        "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_spec": {
+          "prov:generalEntity": "result:file-public-index-html",
+          "prov:specificEntity": "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a"
+        },
+        "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_spec": {
+          "prov:generalEntity": "result:file-public-index-html",
+          "prov:specificEntity": "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c"
+        },
+        "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-index-html",
+          "prov:specificEntity": "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-wine-png",
+          "prov:specificEntity": "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-twitter-png",
+          "prov:specificEntity": "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-glyphicons-halflings-png",
+          "prov:specificEntity": "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-glyphicons-halflings-white-png",
+          "prov:specificEntity": "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-github-png",
+          "prov:specificEntity": "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-download-png",
+          "prov:specificEntity": "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-discuss-png",
+          "prov:specificEntity": "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-img-blog-png",
+          "prov:specificEntity": "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_spec": {
+          "prov:generalEntity": "result:file-public-css-styles-css",
+          "prov:specificEntity": "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c"
+        },
+        "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_spec": {
+          "prov:generalEntity": "result:file-public-css-styles-css",
+          "prov:specificEntity": "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04"
+        },
+        "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-css-styles-css",
+          "prov:specificEntity": "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-css-img-bg-jpg",
+          "prov:specificEntity": "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-css-bootstrap-min-css",
+          "prov:specificEntity": "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-css-bootstrap-css",
+          "prov:specificEntity": "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-css-bootstrap-responsive-min-css",
+          "prov:specificEntity": "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-public-css-bootstrap-responsive-css",
+          "prov:specificEntity": "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_spec": {
+          "prov:generalEntity": "result:file-package-json",
+          "prov:specificEntity": "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b"
+        },
+        "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_spec": {
+          "prov:generalEntity": "result:file-package-json",
+          "prov:specificEntity": "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193"
+        },
+        "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_spec": {
+          "prov:generalEntity": "result:file-package-json",
+          "prov:specificEntity": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2"
+        },
+        "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_spec": {
+          "prov:generalEntity": "result:file-package-json",
+          "prov:specificEntity": "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c"
+        },
+        "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_spec": {
+          "prov:generalEntity": "result:file-package-json",
+          "prov:specificEntity": "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035"
+        },
+        "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772_spec": {
+          "prov:generalEntity": "result:file-readme-md",
+          "prov:specificEntity": "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772"
+        },
+        "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_spec": {
+          "prov:generalEntity": "result:file-readme-md",
+          "prov:specificEntity": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408"
+        },
+        "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_spec": {
+          "prov:generalEntity": "result:file-readme-md",
+          "prov:specificEntity": "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463"
+        },
+        "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_spec": {
+          "prov:generalEntity": "result:file-readme-md",
+          "prov:specificEntity": "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d"
+        },
+        "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_spec": {
+          "prov:generalEntity": "result:file--gitignore",
+          "prov:specificEntity": "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d"
+        },
+        "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_spec": {
+          "prov:generalEntity": "result:file--gitignore",
+          "prov:specificEntity": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff"
+        },
+        "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_spec": {
+          "prov:generalEntity": "result:file-Procfile",
+          "prov:specificEntity": "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b"
+        },
+        "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_spec": {
+          "prov:generalEntity": "result:file-Procfile",
+          "prov:specificEntity": "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c"
+        },
+        "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_spec": {
+          "prov:generalEntity": "result:file-serverwithanalytics-js",
+          "prov:specificEntity": "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5"
+        },
+        "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_spec": {
+          "prov:generalEntity": "result:file-serverwithanalytics-js",
+          "prov:specificEntity": "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b"
+        },
+        "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_spec": {
+          "prov:generalEntity": "result:file-serverwithanalytics-js",
+          "prov:specificEntity": "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c"
+        },
+        "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_spec": {
+          "prov:generalEntity": "result:file-public-dashboard-html",
+          "prov:specificEntity": "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a"
+        },
+        "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_spec": {
+          "prov:generalEntity": "result:file-public-dashboard-html",
+          "prov:specificEntity": "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c"
+        }
+      },
+      "wasGeneratedBy": {
+        "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_gen": {
+          "prov:activity": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:entity": "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:time": "2012-10-10T16:19:13.000Z"
+        },
+        "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_gen": {
+          "prov:activity": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:entity": "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:time": "2012-10-04T20:15:26.000Z"
+        },
+        "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-server-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_gen": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:entity": "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:time": "2012-10-10T16:10:10.000Z"
+        },
+        "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_gen": {
+          "prov:activity": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:entity": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:time": "2012-10-10T15:19:39.000Z"
+        },
+        "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_gen": {
+          "prov:activity": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:entity": "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:time": "2012-10-04T21:29:58.000Z"
+        },
+        "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_gen": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:entity": "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:time": "2012-10-04T20:43:27.000Z"
+        },
+        "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-routes-wines-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_gen": {
+          "prov:activity": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:entity": "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:time": "2012-10-05T17:39:34.000Z"
+        },
+        "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-tpl-WineView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-tpl-WineListItemView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_gen": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:entity": "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:time": "2012-10-05T17:35:22.000Z"
+        },
+        "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-tpl-HomeView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-tpl-HeaderView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-tpl-AboutView-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-readme-md_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-waterbrook-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-viticcio-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-shafer-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-saint_cosme-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-rex_hill-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-quivira-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-ponzi-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-petalos-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-morizottes-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-momo-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-margerum-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-le_doyenne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-lan_rioja-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-hugel-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-generic-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-fourvines-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-ex_umbris-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-domaine_serene-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-dinastia-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-caronne-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-capineto-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-calera-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-bouscat-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-bodega_lurton-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-block_nine-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-pics-argiano-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-lib-underscore-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-lib-jquery-1-8-2-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-lib-bootstrap-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-lib-backbone-min-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-views-winelist-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-views-winedetails-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-views-paginator-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-views-home-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-views-header-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-views-about-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-utils-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-models-models-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-js-main-js_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_gen": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:entity": "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:time": "2012-10-10T16:10:10.000Z"
+        },
+        "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_gen": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:entity": "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:time": "2012-10-10T14:57:19.000Z"
+        },
+        "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_gen": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:entity": "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-index-html_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-wine-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-twitter-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-glyphicons-halflings-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-glyphicons-halflings-white-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-github-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-download-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-discuss-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-img-blog-png_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_gen": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:entity": "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_gen": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:entity": "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:time": "2012-10-05T17:35:22.000Z"
+        },
+        "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-css-styles-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-css-img-bg-jpg_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-css-bootstrap-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-css-bootstrap-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-css-bootstrap-responsive-min-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-public-css-bootstrap-responsive-css_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_gen": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:entity": "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_gen": {
+          "prov:activity": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:entity": "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:time": "2012-10-04T20:48:36.000Z"
+        },
+        "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_gen": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:entity": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:time": "2012-10-04T20:43:27.000Z"
+        },
+        "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_gen": {
+          "prov:activity": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:entity": "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:time": "2012-10-04T20:16:12.000Z"
+        },
+        "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035_gen": {
+          "prov:entity": "result:file-package-json_commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:activity": "result:commit-752202b598c0aebc3e02949340b5fbcb27ccc035",
+          "prov:time": "2012-10-04T15:25:02.000Z"
+        },
+        "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772_gen": {
+          "prov:activity": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:entity": "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:time": "2012-10-10T16:17:35.000Z"
+        },
+        "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_gen": {
+          "prov:activity": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:entity": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:time": "2012-10-10T16:16:27.000Z"
+        },
+        "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_gen": {
+          "prov:activity": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:entity": "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:time": "2012-10-04T20:53:36.000Z"
+        },
+        "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_gen": {
+          "prov:entity": "result:file-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:activity": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-04T15:28:32.000Z"
+        },
+        "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_gen": {
+          "prov:activity": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:entity": "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:time": "2012-10-10T16:12:25.000Z"
+        },
+        "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_gen": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:entity": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:time": "2012-10-10T14:40:12.000Z"
+        },
+        "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_gen": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:entity": "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_gen": {
+          "prov:entity": "result:file-Procfile_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:activity": "result:commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:time": "2012-10-04T20:50:11.000Z"
+        },
+        "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_gen": {
+          "prov:activity": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:entity": "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:time": "2012-10-10T16:48:06.000Z"
+        },
+        "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_gen": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:entity": "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_gen": {
+          "prov:entity": "result:file-serverwithanalytics-js_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_gen": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:entity": "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:time": "2012-10-10T14:57:19.000Z"
+        },
+        "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_gen": {
+          "prov:entity": "result:file-public-dashboard-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        }
+      },
+      "used": {
+        "result:file-server-js_commit-e184da9cea85e7a2fac296268e340476f3795772_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_use": {
+          "prov:activity": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:entity": "result:file-server-js_commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:time": "2012-10-10T16:19:13.000Z"
+        },
+        "result:file-server-js_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_use": {
+          "prov:activity": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:entity": "result:file-server-js_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-04T20:15:26.000Z"
+        },
+        "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_use": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:entity": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:time": "2012-10-10T16:10:10.000Z"
+        },
+        "result:file-routes-wines-js_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_use": {
+          "prov:activity": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:entity": "result:file-routes-wines-js_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:time": "2012-10-10T15:19:39.000Z"
+        },
+        "result:file-routes-wines-js_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_use": {
+          "prov:activity": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:entity": "result:file-routes-wines-js_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:time": "2012-10-04T21:29:58.000Z"
+        },
+        "result:file-routes-wines-js_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_use": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:entity": "result:file-routes-wines-js_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6",
+          "prov:time": "2012-10-04T20:43:27.000Z"
+        },
+        "result:file-public-tpl-WineView-html_commit-1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_use": {
+          "prov:activity": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:entity": "result:file-public-tpl-WineView-html_commit-1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1",
+          "prov:time": "2012-10-05T17:39:34.000Z"
+        },
+        "result:file-public-tpl-HomeView-html_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_use": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:entity": "result:file-public-tpl-HomeView-html_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-05T17:35:22.000Z"
+        },
+        "result:file-public-index-html_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_use": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:entity": "result:file-public-index-html_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:time": "2012-10-10T16:10:10.000Z"
+        },
+        "result:file-public-index-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_use": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:entity": "result:file-public-index-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:57:19.000Z"
+        },
+        "result:file-public-index-html_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_use": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:entity": "result:file-public-index-html_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:file-public-css-styles-css_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_use": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:entity": "result:file-public-css-styles-css_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657",
+          "prov:time": "2012-10-10T14:30:40.000Z"
+        },
+        "result:file-public-css-styles-css_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_use": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:entity": "result:file-public-css-styles-css_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-05T17:35:22.000Z"
+        },
+        "result:file-package-json_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_use": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:entity": "result:file-package-json_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_use": {
+          "prov:activity": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:entity": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:time": "2012-10-04T20:48:36.000Z"
+        },
+        "result:file-package-json_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_use": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:entity": "result:file-package-json_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6",
+          "prov:time": "2012-10-04T20:43:27.000Z"
+        },
+        "result:file-package-json_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_use": {
+          "prov:activity": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:entity": "result:file-package-json_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:time": "2012-10-04T20:16:12.000Z"
+        },
+        "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_commit-e184da9cea85e7a2fac296268e340476f3795772_use": {
+          "prov:activity": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:entity": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:time": "2012-10-10T16:17:35.000Z"
+        },
+        "result:file-readme-md_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_use": {
+          "prov:activity": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:entity": "result:file-readme-md_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:time": "2012-10-10T16:16:27.000Z"
+        },
+        "result:file-readme-md_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_use": {
+          "prov:activity": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:entity": "result:file-readme-md_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:time": "2012-10-04T20:53:36.000Z"
+        },
+        "result:file--gitignore_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_use": {
+          "prov:activity": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:entity": "result:file--gitignore_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:time": "2012-10-10T16:12:25.000Z"
+        },
+        "result:file--gitignore_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_use": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:entity": "result:file--gitignore_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:time": "2012-10-10T14:40:12.000Z"
+        },
+        "result:file--gitignore_commit-7f50efff47ecb6b65647cfeffb6d36e498081ebb_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_use": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:entity": "result:file--gitignore_commit-7f50efff47ecb6b65647cfeffb6d36e498081ebb",
+          "prov:time": "2012-10-10T14:40:12.000Z"
+        },
+        "result:file-Procfile_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_use": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:entity": "result:file-Procfile_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:file-serverwithanalytics-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_use": {
+          "prov:activity": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:entity": "result:file-serverwithanalytics-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:time": "2012-10-10T16:48:06.000Z"
+        },
+        "result:file-serverwithanalytics-js_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_use": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:entity": "result:file-serverwithanalytics-js_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:time": "2012-10-10T14:46:58.000Z"
+        },
+        "result:file-public-dashboard-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_use": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:entity": "result:file-public-dashboard-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:time": "2012-10-10T14:57:19.000Z"
+        }
+      },
+      "wasDerivedFrom": {
+        "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_e184da9cea85e7a2fac296268e340476f3795772_der": {
+          "prov:activity": "result:commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:generatedEntity": "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:usedEntity": "result:file-server-js_commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:generation": "result:file-server-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_gen",
+          "prov:usage": "result:file-server-js_commit-e184da9cea85e7a2fac296268e340476f3795772_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_use"
+        },
+        "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_der": {
+          "prov:activity": "result:commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:generatedEntity": "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:usedEntity": "result:file-server-js_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:generation": "result:file-server-js_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_gen",
+          "prov:usage": "result:file-server-js_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_use"
+        },
+        "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_71ce721270a81fad6fd38fb69fe1a610ce17a0e1_der": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:generatedEntity": "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:usedEntity": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:generation": "result:file-routes-wines-js_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_gen",
+          "prov:usage": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_use"
+        },
+        "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_ba4431af17b3ae088d3f6f2969b73ad0f891623a_der": {
+          "prov:activity": "result:commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:generatedEntity": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:usedEntity": "result:file-routes-wines-js_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:generation": "result:file-routes-wines-js_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_gen",
+          "prov:usage": "result:file-routes-wines-js_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_use"
+        },
+        "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_der": {
+          "prov:activity": "result:commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:generatedEntity": "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5",
+          "prov:usedEntity": "result:file-routes-wines-js_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:generation": "result:file-routes-wines-js_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_gen",
+          "prov:usage": "result:file-routes-wines-js_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_commit-10886d2421c278b3cbef7bee1686ffb40a890de5_use"
+        },
+        "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_der": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:generatedEntity": "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:usedEntity": "result:file-routes-wines-js_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6",
+          "prov:generation": "result:file-routes-wines-js_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_gen",
+          "prov:usage": "result:file-routes-wines-js_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_use"
+        },
+        "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1_der": {
+          "prov:activity": "result:commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:generatedEntity": "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2",
+          "prov:usedEntity": "result:file-public-tpl-WineView-html_commit-1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1",
+          "prov:generation": "result:file-public-tpl-WineView-html_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_gen",
+          "prov:usage": "result:file-public-tpl-WineView-html_commit-1cf53c6d7a4f007db4f2fe2cba1259ea7543daa1_commit-8d997d65f61f7dcb849ff72af6bdce7d9977e5e2_use"
+        },
+        "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_der": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:generatedEntity": "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:usedEntity": "result:file-public-tpl-HomeView-html_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:generation": "result:file-public-tpl-HomeView-html_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_gen",
+          "prov:usage": "result:file-public-tpl-HomeView-html_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_use"
+        },
+        "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_71ce721270a81fad6fd38fb69fe1a610ce17a0e1_der": {
+          "prov:activity": "result:commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:generatedEntity": "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:usedEntity": "result:file-public-index-html_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1",
+          "prov:generation": "result:file-public-index-html_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_gen",
+          "prov:usage": "result:file-public-index-html_commit-71ce721270a81fad6fd38fb69fe1a610ce17a0e1_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_use"
+        },
+        "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_der": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:generatedEntity": "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:usedEntity": "result:file-public-index-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:generation": "result:file-public-index-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_gen",
+          "prov:usage": "result:file-public-index-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_use"
+        },
+        "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_d95f6adfd4e6d12b25a287281ee830934ce4b657_der": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:generatedEntity": "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:usedEntity": "result:file-public-index-html_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657",
+          "prov:generation": "result:file-public-index-html_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_gen",
+          "prov:usage": "result:file-public-index-html_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_use"
+        },
+        "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_d95f6adfd4e6d12b25a287281ee830934ce4b657_der": {
+          "prov:activity": "result:commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:generatedEntity": "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:usedEntity": "result:file-public-css-styles-css_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657",
+          "prov:generation": "result:file-public-css-styles-css_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_gen",
+          "prov:usage": "result:file-public-css-styles-css_commit-d95f6adfd4e6d12b25a287281ee830934ce4b657_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_use"
+        },
+        "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_der": {
+          "prov:activity": "result:commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:generatedEntity": "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04",
+          "prov:usedEntity": "result:file-public-css-styles-css_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:generation": "result:file-public-css-styles-css_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_gen",
+          "prov:usage": "result:file-public-css-styles-css_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_commit-0f91e2ebc4681ccb17f16f6d3f5f4dc9e970aa04_use"
+        },
+        "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_der": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:generatedEntity": "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:usedEntity": "result:file-package-json_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:generation": "result:file-package-json_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_gen",
+          "prov:usage": "result:file-package-json_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_use"
+        },
+        "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_der": {
+          "prov:activity": "result:commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:generatedEntity": "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193",
+          "prov:usedEntity": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:generation": "result:file-package-json_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_gen",
+          "prov:usage": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_commit-4620408c6a6f8b4577c0976acc2d12c3849bc193_use"
+        },
+        "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_der": {
+          "prov:activity": "result:commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:generatedEntity": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2",
+          "prov:usedEntity": "result:file-package-json_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6",
+          "prov:generation": "result:file-package-json_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_gen",
+          "prov:usage": "result:file-package-json_commit-aeb53e1d74b7882b22f5011b8a18d7df62b3b1d6_commit-1a0c9cc48c8e270759f48fd2d09b0d4b26485ff2_use"
+        },
+        "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_der": {
+          "prov:activity": "result:commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:generatedEntity": "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c",
+          "prov:usedEntity": "result:file-package-json_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe",
+          "prov:generation": "result:file-package-json_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_gen",
+          "prov:usage": "result:file-package-json_commit-1ec2167ba4df4158e7b5d4986e103d46c6dc6dbe_commit-6c0232f8460bf6caaedb43617207c17c7cffd89c_use"
+        },
+        "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772_b0497ca6f8134cdfffa9385a48dabb8dfbb52408_der": {
+          "prov:activity": "result:commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:generatedEntity": "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772",
+          "prov:usedEntity": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:generation": "result:file-readme-md_commit-e184da9cea85e7a2fac296268e340476f3795772_gen",
+          "prov:usage": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_commit-e184da9cea85e7a2fac296268e340476f3795772_use"
+        },
+        "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_d386cea975a32ebff142a0e9b775ad15f5f2cf2d_der": {
+          "prov:activity": "result:commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:generatedEntity": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408",
+          "prov:usedEntity": "result:file-readme-md_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:generation": "result:file-readme-md_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_gen",
+          "prov:usage": "result:file-readme-md_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_commit-b0497ca6f8134cdfffa9385a48dabb8dfbb52408_use"
+        },
+        "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_9046457fa6d2cf461fc6b4842a857ae6b6ba940c_der": {
+          "prov:activity": "result:commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:generatedEntity": "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463",
+          "prov:usedEntity": "result:file-readme-md_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c",
+          "prov:generation": "result:file-readme-md_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_gen",
+          "prov:usage": "result:file-readme-md_commit-9046457fa6d2cf461fc6b4842a857ae6b6ba940c_commit-5e9b93c3c1b197c88a5a54bacc0b9f90030e7463_use"
+        },
+        "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_1f43c3780e346b9a72ad31d38fddf0c5d9094953_der": {
+          "prov:activity": "result:commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:generatedEntity": "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d",
+          "prov:usedEntity": "result:file--gitignore_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953",
+          "prov:generation": "result:file--gitignore_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_gen",
+          "prov:usage": "result:file--gitignore_commit-1f43c3780e346b9a72ad31d38fddf0c5d9094953_commit-d386cea975a32ebff142a0e9b775ad15f5f2cf2d_use"
+        },
+        "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_6b22a9bc438322d794326bef352b6a43153a7e0c_der": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:generatedEntity": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:usedEntity": "result:file--gitignore_commit-6b22a9bc438322d794326bef352b6a43153a7e0c",
+          "prov:generation": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_gen",
+          "prov:usage": "result:file--gitignore_commit-6b22a9bc438322d794326bef352b6a43153a7e0c_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_use"
+        },
+        "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_7f50efff47ecb6b65647cfeffb6d36e498081ebb_der": {
+          "prov:activity": "result:commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:generatedEntity": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:usedEntity": "result:file--gitignore_commit-7f50efff47ecb6b65647cfeffb6d36e498081ebb",
+          "prov:generation": "result:file--gitignore_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_gen",
+          "prov:usage": "result:file--gitignore_commit-7f50efff47ecb6b65647cfeffb6d36e498081ebb_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_use"
+        },
+        "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_der": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:generatedEntity": "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:usedEntity": "result:file-Procfile_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:generation": "result:file-Procfile_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_gen",
+          "prov:usage": "result:file-Procfile_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_use"
+        },
+        "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_597659b14afe4e37aa512380d56d5a3751f5a8fb_der": {
+          "prov:activity": "result:commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:generatedEntity": "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5",
+          "prov:usedEntity": "result:file-serverwithanalytics-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb",
+          "prov:generation": "result:file-serverwithanalytics-js_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_gen",
+          "prov:usage": "result:file-serverwithanalytics-js_commit-597659b14afe4e37aa512380d56d5a3751f5a8fb_commit-e249ca3be83e75a26710d81ce5ad95c3404f78d5_use"
+        },
+        "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_der": {
+          "prov:activity": "result:commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:generatedEntity": "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:usedEntity": "result:file-serverwithanalytics-js_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff",
+          "prov:generation": "result:file-serverwithanalytics-js_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_gen",
+          "prov:usage": "result:file-serverwithanalytics-js_commit-443e8d14d125e72fbd7ce3a05a795cfe44eb16ff_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_use"
+        },
+        "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_der": {
+          "prov:activity": "result:commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:generatedEntity": "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a",
+          "prov:usedEntity": "result:file-public-dashboard-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b",
+          "prov:generation": "result:file-public-dashboard-html_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_gen",
+          "prov:usage": "result:file-public-dashboard-html_commit-17b5a94ed7a9bc9bb8684ea4f08ca97b170cd75b_commit-ba4431af17b3ae088d3f6f2969b73ad0f891623a_use"
+        }
+      },
+      "wasInvalidatedBy": {
+        "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d_inv": {
+          "prov:entity": "result:file-public-readme-md_commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:activity": "result:commit-1576c1f93d78873dddcd01bd1ed5c942aeb84f9d",
+          "prov:time": "2012-10-04T15:28:32.000Z"
+        }
+      }
+    }
+  }
+}
