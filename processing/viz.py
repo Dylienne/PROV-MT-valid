@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 #document load and spits
 
-csv = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/VCS.csv', sep =';')
+csv = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/Sets/VCS.csv', sep =';')
 df = pd.DataFrame(csv)
 
 # splitfiles
@@ -33,4 +33,12 @@ plt.ylim(-100, 5000)
 sns.boxplot(stars)
 plt.xlim(-100, 8000, 500)
 
+#heatmap
+np.random.seed(0)
+sns.set()
 
+ax = sns.heatmap(vcsfeatures)
+
+#arithmetrics
+
+rationstarsforks = np.divide(vcsfeatures['VCS-Stars'], vcsfeatures['VCS-Forks'])

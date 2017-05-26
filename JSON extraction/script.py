@@ -9,7 +9,7 @@ import prov
 from datetime import datetime
 
 #definition of contents
-document = pd.read_json('Data/JSON/PUNPROV.json', orient='records')
+document = pd.read_json('Data/JSON/AFKPROV.json', orient='records')
 print(document)
 Bundles = document["bundle"]
 provenance = Bundles["result:provenance"]
@@ -20,8 +20,8 @@ print(provenance)
 df = pd.DataFrame(provenance)
 print(df.count())
 
-# timestamp
-#
+#timestamp generation
+
 # def list_time(provenance):
 #     for key, value in provenance.items():
 #         if key == 'wasGeneratedBy':
@@ -31,19 +31,19 @@ print(df.count())
 #                         print(ssvalue)
 #
 # timeprov = list_time(provenance)
-# firsttime = datetime.strftime(timeprov[1,-1], '%Y-%m-%d 'T' '%H''
-# lasttime = timeprov[1,-1]
-# elaptime = datetime
-# timeprov.sort
+# # firsttime = datetime.strftime(timeprov[1,-1], '%Y-%m-%d 'T' '%H''
+# # lasttime = timeprov[1,-1]
+# # elaptime = datetime
+# # timeprov.sort
 #
 # recording = pd.read_xlsx('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/Provenance recoding.xlsx')
 #
-#
-# to do: crreate bundle of used, wgb, wib
-# compare if they differ
-# get first and get last - calculate time
-# calculate average time between commits
-#
-#
+# #
+# # to do: crreate bundle of used, wgb, wib
+# # compare if they differ
+# # get first and get last - calculate time
+# # calculate average time between commits
+# #
+# #
 #
 #
