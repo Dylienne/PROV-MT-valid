@@ -7,43 +7,46 @@ import pandas as pd
 import numpy as np
 import prov
 from datetime import datetime
+import calendar
 
 #definition of contents
 document = pd.read_json('Data/JSON/AFKPROV.json', orient='records')
-print(document)
+# print(document)
 Bundles = document["bundle"]
 provenance = Bundles["result:provenance"]
 elementoverview = list(provenance)
 print(provenance)
 
-#pandas dataframe
+# dataframe
 df = pd.DataFrame(provenance)
-print(df.count())
+# print(df.count())
 
 #timestamp generation
+def time_set(provenance):
+    used = provenance['used']
+    wasGeneratedBy = provenance['wasGeneratedBy']
+    wasStartedBy = provenance["wasStartedBy"]
+    timeset = dict(used, **wasGeneratedBy)
+    timesetfunction = dict(timeset, **wasStartedBy)
+    print(timesetfunction)
 
-# def list_time(provenance):
-#     for key, value in provenance.items():
-#         if key == 'wasGeneratedBy':
-#             for subkey, subvalue in value.items():
-#                 for sskey, ssvalue in subvalue.items():
-#                     if sskey == 'prov:time':
-#                         print(ssvalue)
-#
-# timeprov = list_time(provenance)
-# # firsttime = datetime.strftime(timeprov[1,-1], '%Y-%m-%d 'T' '%H''
-# # lasttime = timeprov[1,-1]
-# # elaptime = datetime
-# # timeprov.sort
-#
-# recording = pd.read_xlsx('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/Provenance recoding.xlsx')
-#
-# #
-# # to do: crreate bundle of used, wgb, wib
-# # compare if they differ
-# # get first and get last - calculate time
-# # calculate average time between commits
-# #
-# #
-#
-#
+def list_time(provenance):
+    for key, value in provenance.items():
+        if key == 'wasGeneratedBy':
+            for subkey, subvalue in value.items():
+                times = []
+                for sskey, ssvalue in subvalue.items():
+                    if sskey == 'prov:time':
+                            times.append(ssvalue)
+                            print(times)
+    return times
+
+dateframe= pd.to_datetime(list_time(provenance)) #list
+
+print(type(dateframe))
+
+
+timeminmax = timeprov.iloc[0,-1]
+elapstime = print(np.divide(timeminmax[0],timeminmax[1]))
+meantimecommit =
+print(type(timeprov))
