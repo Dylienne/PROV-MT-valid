@@ -17,5 +17,8 @@ starsforks = np.divide(vcs.iloc[:,0],vcs.iloc[:,1])  #ratio stars and forks
 starsforks.replace([np.inf, -np.inf], np.nan)
 starsforks.mean()
 
+# correlation
+
+np.corrcoef(np.array(ontology['wasGeneratedBy', np.array(vcs['VCS-Commits'])]))
 
 

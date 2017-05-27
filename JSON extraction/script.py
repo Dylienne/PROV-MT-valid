@@ -48,5 +48,5 @@ print(type(dateframe))
 
 timeminmax = timeprov.iloc[0,-1]
 elapstime = print(np.divide(timeminmax[0],timeminmax[1]))
-meantimecommit =
+# meantimecommit =
 print(type(timeprov))
