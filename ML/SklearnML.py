@@ -3,6 +3,7 @@ from sklearn.model_selection import KFold
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.svm import LinearSVC
 from sklearn.metrics import f1_score
+from sklearn.metrics import cohen_kappa_score
 
 document = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/csvsenseisergej.csv', sep=';')
 #print(document)
@@ -17,6 +18,9 @@ for i in range(document.shape[0]): #go through the rows
         document.iloc[i,6] = 0
 
 document = document.fillna(0)
+
+#feature engineering
+
 
 #crossvalidation
 kf = KFold(n_splits=3, shuffle= True)
@@ -36,7 +40,12 @@ for train_index, test_index in kf.split(document):
     predictions= clf1.predict(x_test)
     print(f1_score(y_test, predictions, average= None))
 
+#summary
 
+cohen_kappa_score(gradeT, gradeP)
+#confusion matrices
+#precision and recall
+#f1_score
 
 
 

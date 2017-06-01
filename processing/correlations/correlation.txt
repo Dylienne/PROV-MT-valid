@@ -1,0 +1,26 @@
+Correlation results 
+
+VCS Repository features correlation matrix
+
+                  VCS.Stars VCS.Forks VCS.Contributions VCS.Commits
+VCS.Stars              1.00      0.89              0.63        0.36
+VCS.Forks              0.89      1.00              0.43        0.29
+VCS.Contributions      0.63      0.43              1.00        0.56
+VCS.Commits            0.36      0.29              0.56        1.00
+
+Provenance ontology correlation matrix
+
+                  WasGeneratedBy Used wasAssociatedWith Activity wasStartedBy WasInvalidatedBy Agent wasInformedBy wasEndedBy wasDerivedFrom Entity wasAttributedTo specializationOF
+WasGeneratedBy              1.00 0.97              0.79     0.80         0.88             0.71  0.38          0.80       0.80           0.96   0.97            0.99             0.99
+Used                        0.97 1.00              0.86     0.86         0.88             0.54  0.44          0.87       0.86           1.00   0.88            0.94             0.94
+wasAssociatedWith           0.79 0.86              1.00     0.99         0.90             0.31  0.60          0.99       0.99           0.86   0.69            0.75             0.75
+Activity                    0.80 0.86              0.99     1.00         0.91             0.32  0.53          1.00       1.00           0.86   0.69            0.76             0.76
+wasStartedBy                0.88 0.88              0.90     0.91         1.00             0.60  0.48          0.91       0.91           0.88   0.83            0.87             0.87
+WasInvalidatedBy            0.71 0.54              0.31     0.32         0.60             1.00  0.09          0.31       0.32           0.54   0.81            0.78             0.78
+Agent                       0.38 0.44              0.60     0.53         0.48             0.09  1.00          0.55       0.53           0.44   0.32            0.35             0.35
+wasInformedBy               0.80 0.87              0.99     1.00         0.91             0.31  0.55          1.00       1.00           0.87   0.69            0.76             0.76
+wasEndedBy                  0.80 0.86              0.99     1.00         0.91             0.32  0.53          1.00       1.00           0.86   0.69            0.76             0.76
+wasDerivedFrom              0.96 1.00              0.86     0.86         0.88             0.54  0.44          0.87       0.86           1.00   0.88            0.94             0.94
+Entity                      0.97 0.88              0.69     0.69         0.83             0.81  0.32          0.69       0.69           0.88   1.00            0.98             0.98
+wasAttributedTo             0.99 0.94              0.75     0.76         0.87             0.78  0.35          0.76       0.76           0.94   0.98            1.00             1.00
+specializationOF            0.99 0.94              0.75     0.76         0.87             0.78  0.35          0.76       0.76           0.94   0.98            1.00             1.00 
