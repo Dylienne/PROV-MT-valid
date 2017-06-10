@@ -4,9 +4,9 @@ from sklearn.multiclass import OneVsRestClassifier
 from sklearn.svm import LinearSVC
 from sklearn.metrics import f1_score
 from sklearn.metrics import cohen_kappa_score
+from sklearn import *
 
-document = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/csvsenseisergej.csv', sep=';')
-#print(document)
+document = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/Sets/repository data.csv', sep=';')
 grade = document['Grade'] #the y variable
 document.__delitem__('Grade') #delete the last column x
 
@@ -20,6 +20,7 @@ for i in range(document.shape[0]): #go through the rows
 document = document.fillna(0)
 
 #feature engineering
+#- categorial data
 
 
 #crossvalidation
@@ -38,15 +39,16 @@ for train_index, test_index in kf.split(document):
     y_test = grade.iloc[test_index]
     clf1 = OneVsRestClassifier(LinearSVC()).fit(x_train, y_train)
     predictions= clf1.predict(x_test)
-    print(f1_score(y_test, predictions, average= None))
+    print(f1_score(y_test, predictions, average= 'marco'))
 
 #summary
 
-cohen_kappa_score(gradeT, gradeP)
+# cohen_kappa_score(gradeT, gradeP)
 #confusion matrices
 #precision and recall
 #f1_score
 
-
+# Viz
+- pruned SKLEARN tree
 
 
