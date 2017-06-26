@@ -7,9 +7,12 @@ from sklearn.metrics import cohen_kappa_score
 from sklearn import *
 
 document = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/Sets/repository data.csv', sep=';')
+df = pd.DataFrame(document)
 grade = document['Grade'] #the y variable
 document.__delitem__('Grade') #delete the last column x
 
+#normalize dataset
+df_norm = (df - df.mean()) / (df.max()- df.min())
 #transform
 for i in range(document.shape[0]): #go through the rows
     if document.iloc[i,6] == "yes":
@@ -20,7 +23,7 @@ for i in range(document.shape[0]): #go through the rows
 document = document.fillna(0)
 
 #feature engineering
-#- categorial data
+grading = pd.read_csv('/Users/dylienneevery/Documents/PROV-MT-valid/processing/filewithgrades.csv', sep=';')
 
 
 #crossvalidation

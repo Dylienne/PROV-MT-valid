@@ -37,14 +37,14 @@ def list_time(provenance):
                             time.append({"time":ssvalue})
     return time
 
-# def list_time2(timeset):
-#     time = []
-#     for key,value in timeset.items():
-#         for skey, svalue in value.items():
-#             if skey == 'time:prov':
-#                 time.append({"time":svalue})
-#                 print(time)
-#     return time
+def list_time2(timeset):
+    time = []
+    for key,value in timeset.items():
+        for skey, svalue in value.items():
+            if skey == 'time:prov':
+                time.append({"time":svalue})
+                print(time)
+    return time
 
 # #timearithmetrics
 timedf = list_time(provenance)

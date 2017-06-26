@@ -7,6 +7,12 @@ import matplotlib as plt
 set = pd.read_csv('Processing/repository data.csv', sep=';')
 df = pd.DataFrame(set)
 
+survey = pd.read_csv('Processing/Provenance Ontology Research-report.csv', sep=';')
+df_survey = pd.DataFrame(survey)
+df1 = df_survey.ix[:,1:29]
+df1.fillna(0, inplace=True)
+
+
 #slicing
 user  = df.iloc[:,5:7]
 vcs = df.iloc[:,0:4]
