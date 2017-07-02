@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import KFold
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.svm import LinearSVC
@@ -6,24 +7,27 @@ from sklearn.metrics import f1_score
 from sklearn.metrics import cohen_kappa_score
 from sklearn import *
 
-document = pd.read_csv('/Users/dylienneevery/Dropbox (Personal)/SimpliLegal/Thesis dnki/Sets/repository data.csv', sep=';')
+document = pd.read_csv('/Users/dylienneevery/Documents/PROV-MT-valid/processing/filewithgrades.csv', sep=';')
 df = pd.DataFrame(document)
 grade = document['Grade'] #the y variable
 document.__delitem__('Grade') #delete the last column x
+document.__delitem__('Labels') #delete label
 
 #normalize dataset
 df_norm = (df - df.mean()) / (df.max()- df.min())
+
 #transform
 for i in range(document.shape[0]): #go through the rows
-    if document.iloc[i,6] == "yes":
-        document.iloc[i,6] = 1
+    if document.iloc[i,7] == "yes":
+        document.iloc[i,7] = 1
     else:
-        document.iloc[i,6] = 0
+        document.iloc[i,7] = 0
 
 document = document.fillna(0)
 
 #feature engineering
-grading = pd.read_csv('/Users/dylienneevery/Documents/PROV-MT-valid/processing/filewithgrades.csv', sep=';')
+labels= document['Labels'] #new y variable
+ratio = document['VCS-Stars']/document['VCS-Forks']
 
 
 #crossvalidation
@@ -44,14 +48,27 @@ for train_index, test_index in kf.split(document):
     predictions= clf1.predict(x_test)
     print(f1_score(y_test, predictions, average= 'marco'))
 
+# confusion matrix
+
+
+y_true= grade
+y_predict = predictions
+c = confusion_matrix(y_true, clf1.predict(document))
+c/c.astype(np.float).sum(axis=1)
+
+def loss_function(test, predictions):
+    diff = np.abs(test-predictions).max()
+    return np.log(1+diff)
+
+loss = make_scorer(loss_function, greater_is_better = False)
+score = make_scorer(loss_function, greater_is_better = True)
+
+cohen_kappa_score(y_true, predictions)
+
+
+
+
 #summary
 
-# cohen_kappa_score(gradeT, gradeP)
-#confusion matrices
-#precision and recall
-#f1_score
-
-# Viz
-- pruned SKLEARN tree
 
 
