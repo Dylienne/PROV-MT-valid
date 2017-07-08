@@ -6,9 +6,20 @@ from sklearn.svm import LinearSVC
 from sklearn.metrics import f1_score
 from sklearn.metrics import cohen_kappa_score
 from sklearn import *
+from sklearn import metrics
+from sklearn.ensemble import ExtraTreesClassifier
 
+#datasets
 document = pd.read_csv('/Users/dylienneevery/Documents/PROV-MT-valid/processing/filewithgrades.csv', sep=';')
 df = pd.DataFrame(document)
+respondents = pd.read_csv()
+
+#respondents
+repo = pd.read_csv('/Users/dylienneevery/Documents/PROV-MT-valid/processing/Provenance Ontology Research-report.csv', sep=';')
+repo.fillna(0)
+dummies = pd.getdummies(repo)[:32]
+
+#targets
 grade = document['Grade'] #the y variable
 document.__delitem__('Grade') #delete the last column x
 document.__delitem__('Labels') #delete label
@@ -51,6 +62,7 @@ for train_index, test_index in kf.split(document):
 # confusion matrix
 
 
+#cohen kappa score
 y_true= grade
 y_predict = predictions
 c = confusion_matrix(y_true, clf1.predict(document))
@@ -63,12 +75,30 @@ def loss_function(test, predictions):
 loss = make_scorer(loss_function, greater_is_better = False)
 score = make_scorer(loss_function, greater_is_better = True)
 
-cohen_kappa_score(y_true, predictions)
+print(cohen_kappa_score(y_true, predictions))
+
+#variable importances
+
+np.argsort(varimp)[::-1]
+plt.hist(varimp)
+model =
+varimp = model.feature_importances_
+varimp = model.fit(repos, grade)
+varimp * 100
+features_names = repos.columns
+varimp = model.fit(repos, grade)
 
 
+indices
+array([ 2, 15,  3,  6, 10, 32,  1, 30, 19,  7, 33, 20,  9, 12, 22, 17, 26,
+        4,  5, 23,  0, 21, 16, 25, 24, 31, 13,  8, 11, 34, 28, 18, 35, 27,
+       14, 29])
 
 
 #summary
+
+
+
 
 
 

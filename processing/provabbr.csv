@@ -1,0 +1,33 @@
+Country;Sector;Python;C#;C++;Ruby;JavaScript;Java;R;Php;HTML;BitBucket;Customer Relationship Management System;GitHub;Mercurial;Subversion (SVN);Microsoft Team Foundation Server;Microsoft Sharepoint ;Helix;SourceTree;Git;research publisher;supportsys;repo's owned;message;quality commit;Repopub;job;Time;sufficient comments;I think that the more collaborators are involved in a project, the more efficient the code and repository will yield to be.;qualitative?;Comfort
+1;1;Python;;C++;;JavaScript;Java;;;;BitBucket;;GitHub;;;;;;;Git;1;0;0;1;0;Private;I build stuff;within 6 months;1;0;1;1
+2;2;Python;;;;JavaScript;;;;HTML;;;;;Subversion (SVN);;;;;;1;0;0;1;1;Public;I analyze and calculate stuff;within 6 months;1;1;2;2
+3;2;Python;;;;;;R;;;;;GitHub;;;;;;;;1;1;1;1;2;Public;I analyze and calculate stuff;within 6 months;1;0;3;2
+4;3;Python;;C++;;;;;;;;;GitHub;;;;;;;;0;1;0;0;3;Private;I analyze and calculate stuff;within 6 months;1;0;4;1
+0;2;;;;;JavaScript;;;;HTML;;;;;;Microsoft Team Foundation Server;;;;;1;1;2;0;4;Private;I analyze and calculate stuff;between 6 months and a year;1;0;4;1
+5;2;Python;;;Ruby;;;R;;;BitBucket;;;Mercurial;;;Microsoft Sharepoint ;;;Git;0;2;2;0;5;Public;I build stuff;within 6 months;1;0;3;3
+5;2;Python;C#;C++;;JavaScript;;;;;BitBucket;;GitHub;;;;;Helix;;Git;0;3;1;0;6;Public;I build stuff;within 6 months;1;0;2;1
+5;4;Python;C#;C++;;JavaScript;;;;;;Customer Relationship Management System;;;;Microsoft Team Foundation Server;;;SourceTree;;1;4;2;0;3;Private;I analyze and calculate stuff;between 6 months and a year;1;0;3;2
+6;5;;;;;;Java;R;Php;;BitBucket;;;Mercurial;;;;Helix;;;1;3;1;0;5;Public;I build stuff;within 6 months;0;0;3;1
+0;6;;C#;;Ruby;;;R;;;;Customer Relationship Management System;GitHub;;;;Microsoft Sharepoint ;;;;1;4;1;0;5;Private;I analyze and calculate stuff;within 6 months;0;0;2;1
+7;1;;;;Ruby;;;;Php;HTML;;Customer Relationship Management System;;;Subversion (SVN);;;Helix;;;0;2;1;0;3;Public;I analyze and calculate stuff;within 6 months;1;1;2;1
+8;4;;C#;;;JavaScript;;;Php;;;;;;Subversion (SVN);;Microsoft Sharepoint ;;SourceTree;;1;0;2;0;6;Private;I analyze and calculate stuff;between 6 months and a year;1;0;4;2
+3;6;;;C++;;;Java;;;HTML;;;;;Subversion (SVN);Microsoft Team Foundation Server;Microsoft Sharepoint ;;;;1;4;1;0;0;Private;I build stuff;between 6 months and a year;0;0;4;1
+2;6;;;C++;;;Java;;;HTML;BitBucket;Customer Relationship Management System;GitHub;;;;;;;;0;3;2;0;6;Private;I build stuff;between 6 months and a year;1;1;3;1
+8;1;;;;;JavaScript;;;Php;HTML;BitBucket;Customer Relationship Management System;GitHub;;;;;;;;0;5;2;1;4;Public;I build stuff;between 6 months and a year;1;1;1;4
+7;5;;;;;;;R;Php;HTML;;;;;;Microsoft Team Foundation Server;Microsoft Sharepoint ;Helix;;;0;1;0;0;5;Private;I analyze and calculate stuff;within 6 months;0;0;1;2
+0;5;Python;;;;;;;;;;;;;;;;Helix;;;1;4;2;0;5;Private;I build stuff;within 6 months;1;0;2;1
+10;4;Python;;;;JavaScript;;R;;;;Customer Relationship Management System;;Mercurial;;;;Helix;;;0;5;1;0;2;Public;I analyze and calculate stuff;within 6 months;1;1;2;4
+11;4;;C#;C++;;JavaScript;;R;;;BitBucket;;;;;;;;;;0;2;2;0;6;Private;I build stuff;between 6 months and a year;1;1;2;1
+11;6;;;;;JavaScript;;;;;;Customer Relationship Management System;;;;;;;;;1;5;1;1;0;Private;I analyze and calculate stuff;within 6 months;1;0;4;4
+8;6;Python;;C++;;;;R;;;;;;;;;Microsoft Sharepoint ;;SourceTree;;0;5;1;0;1;Private;I analyze and calculate stuff;between 6 months and a year;0;0;4;1
+3;2;Python;;;;;;R;;;;;;;;Microsoft Team Foundation Server;Microsoft Sharepoint ;Helix;;Git;1;5;0;0;1;Private;I analyze and calculate stuff;between 6 months and a year;1;0;2;2
+7;4;Python;;;;;;R;;;;;GitHub;;;;;;;;1;1;2;0;5;Private;I analyze and calculate stuff;between 6 months and a year;0;0;3;1
+11;4;;;;;JavaScript;;R;;;;Customer Relationship Management System;;;;;;;;;1;0;1;1;4;Private;I analyze and calculate stuff;within 6 months;1;0;2;1
+5;2;Python;;C++;;;;R;;;BitBucket;;GitHub;;;;;;;Git;1;3;2;0;5;Public;I analyze and calculate stuff;between 6 months and a year;0;1;3;1
+3;6;Python;C#;C++;;;;R;;;BitBucket;;GitHub;;;;Microsoft Sharepoint ;;;;0;4;1;0;0;Private;I build stuff;within 6 months;1;0;2;1
+4;5;Python;C#;C++;;;;R;;;;;;;;;Microsoft Sharepoint ;;;;0;5;1;0;5;Public;I build stuff;within 6 months;1;1;2;2
+3;1;;;;;JavaScript;;;;;;;;;;;Microsoft Sharepoint ;;;;1;1;0;1;4;Private;I analyze and calculate stuff;between 6 months and a year;1;0;3;3
+7;6;Python;C#;C++;;;;R;;;BitBucket;;GitHub;;;;Microsoft Sharepoint ;;;;0;5;1;0;3;Private;I analyze and calculate stuff;between 6 months and a year;1;1;2;1
+4;1;Python;C#;C++;;JavaScript;;R;;;BitBucket;;GitHub;;;;Microsoft Sharepoint ;;SourceTree;;0;5;1;0;5;Private;I analyze and calculate stuff;between 6 months and a year;1;0;3;2
+3;8;;;;;JavaScript;;R;;;;;;;;;Microsoft Sharepoint ;;;;1;5;0;0;4;Public;I build stuff;between 6 months and a year;1;0;1;1
+3;8;Python;;C++;;;;R;;;;;;;;;Microsoft Sharepoint ;;;;1;5;1;0;6;Private;I build stuff;within 6 months;1;1;4;1
