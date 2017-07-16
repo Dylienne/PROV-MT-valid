@@ -54,18 +54,18 @@ for train_index, test_index in kf.split(document):
     y_test = grade.iloc[test_index]
     clf1 = OneVsRestClassifier(LinearSVC()).fit(x_train, y_train)
     predictions= clf1.predict(x_test)
-    #print(f1_score(y_test, predictions, average= 'weighted'))
+    print(f1_score(y_test, predictions, average= 'weighted'))
 
 #output
-print(predictions)
-print(type(predictions))
-print("____")
-print(clf1)
-print("______")
-print(x_train.tail())
-print("____")
-print(y_test.tail())
-print(document.tail())
+# print(predictions)
+# print(type(predictions))
+# print("____")
+# print(clf1)
+# print("______")
+# print(x_train.tail())
+# print("____")
+# print(y_test.tail())
+# print(document.tail())
 
 
 
