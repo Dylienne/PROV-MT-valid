@@ -7,23 +7,55 @@ library(partykit)
 library(rpart)
 library(randomForest)
 library(Formula)
+library(caret)
+library(mlbench)
+
 
 set.seed(2345)
 #datasets 
 vcs <- as.data.frame(filewithgrades)
-respond <- provabbr
-grades <- factor(vcs$Grade)
+cleanvcs <- vcs[sample(nrow(vcs), 32), ]
+#grades <- factor(vcs$Grade)
 labels <- factor(vcs$Labels)
-vcs$Days <-NULL
+#vcs$Days <-NULL
+
+#Feature engineering
+cleanrespo <- dummies
+total_df <- merge(cleanrespo, cleanvcs)
+labels_full <- total_df$Labels
 
 #divide
-ind <- sample(2, nrow(vcs), replace = TRUE, prob=c(0.6, 0.4))
-train.data <- vcs[ind==1, ]
-test.data <- vcs[ind==2, ]
+ind <- sample(2, nrow(total_df), replace = TRUE, prob=c(0.6, 0.4))
+train.data <- total_df[ind==1, ]
+test.data <- total_df[ind==2, ]
+#total_df$Labels <- NULL 
+#total_df$Grade <- NULL
+
+print(total_df)
+
+#cross validation because it is a small dataset 
+control <- trainControl(method='repeatedcv', number =10, repeats=2)
+model <- train(labels_full ~.,
+                total_df$VCS.Commits 
+               , data=total_df, method='rf', preProcess ="scale", 
+               trControl = control
+               , importance = TRUE)
 
 #random forrest
-rf <- randomForest(labels~., data = vcs, ntree = 50, importance = T)
+rf <- randomForest(labels_full ~.,total_df$VCS.Commits, data = total_df, ntree = 100, importance = T)
+              
+                 
 print(rf)
 importance(rf)
 varImpPlot(rf)
+print(model)
+
+#model assesment 
+
+
+# Tree Random forrest cross validation 
+
+
+
+
 
