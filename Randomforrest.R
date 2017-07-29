@@ -23,6 +23,9 @@ labels <- factor(vcs$Labels)
 cleanrespo <- dummies
 total_df <- merge(cleanrespo, cleanvcs)
 labels_full <- total_df$Labels
+names(total_df)[names(total_df) == "I.think.that.the.more.collaborators.are.involved.in.a.project..the.more.efficient.the.code.and.repository.will.yield.to.be." ] <- "collabs"
+names(total_df)[names(total_df) == "Customer.Relationship.Management.System_Customer.Relationship.Management.System" ] <- "Platform"
+
 
 #divide
 ind <- sample(2, nrow(total_df), replace = TRUE, prob=c(0.6, 0.4))
@@ -30,8 +33,6 @@ train.data <- total_df[ind==1, ]
 test.data <- total_df[ind==2, ]
 #total_df$Labels <- NULL 
 #total_df$Grade <- NULL
-
-print(total_df)
 
 #cross validation because it is a small dataset 
 control <- trainControl(method='repeatedcv', number =10, repeats=2)

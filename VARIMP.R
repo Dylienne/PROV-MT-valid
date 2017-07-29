@@ -6,6 +6,8 @@ library('randomForest')
 
 data <- dummies
 df <- filewithgrades
+
+
 grade <- filewithgrades$Grade
 grade <- grade[1:32]
 
